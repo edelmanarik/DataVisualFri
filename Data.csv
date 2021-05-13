@@ -1,4 +1,4 @@
-OrderID,Product Code,ProductName,OrderDate,ShippedDate,RequiredDate,Cutomer Name,Customer Country,Customer City,TitleOfCourtesy#Title#FirstName#LastName,Sales Quantity,Sales Price
+OrderID,Product Code,ProductName,OrderDate,ShippedDate,RequiredDate,Cutomer Name,Customer Country,Customer City,TitleOfCourtesy#FirstName#LastName#Title,Sales Quantity,Sales Price
 10248,11,Queso Cabrales,04/07/2018,16/07/2018,01/08/2018,Vins et alcools Chevalier,France,Reims,Mr.#Steven#Buchanan#Sales Manager,12,14
 10248,42,Singaporean Hokkien Fried Mee,04/07/2018,16/07/2018,01/08/2018,Vins et alcools Chevalier,France,Reims,Mr.#Steven#Buchanan#Sales Manager,10,9.8
 10248,72,Mozzarella di Giovanni,04/07/2018,16/07/2018,01/08/2018,Vins et alcools Chevalier,France,Reims,Mr.#Steven#Buchanan#Sales Manager,5,34.8
