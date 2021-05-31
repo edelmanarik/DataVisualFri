@@ -4,7 +4,7 @@ OrderID,Product Code,ProductName,OrderDate,ShippedDate,RequiredDate,Cutomer Name
 10248,72,Mozzarella di Giovanni,04/07/2018,16/07/2018,01/08/2018,Vins et alcools Chevalier,France,Reims,Mr.#Steven#Buchanan#Sales Manager,5,34.8
 10249,14,Tofu,05/07/2018,10/07/2018,16/08/2018,Toms Spezialit?ten,Germany,M?nster,Mr.#Michael#Suyama#Sales Representative,9,18.6
 10249,51,Manjimup Dried Apples,05/07/2018,10/07/2018,16/08/2018,Toms Spezialit?ten,Germany,M?nster,Mr.#Michael#Suyama#Sales Representative,40,42.4
-10250,41,Jack's New England Clam Chowder,08/07/2018,12/07/2018,05/08/2018,Hanari Carnes,Brazil,Rio de Janeiro,Mrs.#Margaret#Peacock#Sales Representative,10,7.7
+10250,41,Jack's New England Clam Chowder,08/07/2018,12/07/2018,05/08/2018,Hanari Carnes,#NAA,Rio de Janeiro,Mrs.#Margaret#Peacock#Sales Representative,10,7.7
 10250,51,Manjimup Dried Apples,08/07/2018,12/07/2018,05/08/2018,Hanari Carnes,Brazil,Rio de Janeiro,Mrs.#Margaret#Peacock#Sales Representative,35,42.4
 10250,65,Louisiana Fiery Hot Pepper Sauce,08/07/2018,12/07/2018,05/08/2018,Hanari Carnes,Brazil,Rio de Janeiro,Mrs.#Margaret#Peacock#Sales Representative,15,16.8
 10251,22,Gustaf's Kn?ckebr?d,08/07/2018,15/07/2018,05/08/2018,Victuailles en stock,France,Lyon,Ms.#Janet#Leverling#Sales Representative,6,16.8
@@ -19,7 +19,7 @@ OrderID,Product Code,ProductName,OrderDate,ShippedDate,RequiredDate,Cutomer Name
 10254,24,Guaran? Fant?stica,11/07/2018,23/07/2018,08/08/2018,Chop-suey Chinese,Switzerland,Bern,Mr.#Steven#Buchanan#Sales Manager,15,3.6
 10254,55,P?t? chinois,11/07/2018,23/07/2018,08/08/2018,Chop-suey Chinese,Switzerland,Bern,Mr.#Steven#Buchanan#Sales Manager,21,19.2
 10254,74,Longlife Tofu,11/07/2018,23/07/2018,08/08/2018,Chop-suey Chinese,Switzerland,Bern,Mr.#Steven#Buchanan#Sales Manager,21,8
-10255,2,Chang,12/07/2018,15/07/2018,09/08/2018,Richter Supermarkt,Switzerland,Gen?ve,Ms.#Anne#Dodsworth#Sales Representative,20,15.2
+10255,2,Chang,12/07/2018,15/07/2018,09/08/2018,Richter Supermarkt,#NAA,Gen?ve,Ms.#Anne#Dodsworth#Sales Representative,20,15.2
 10255,16,Pavlova,12/07/2018,15/07/2018,09/08/2018,Richter Supermarkt,Switzerland,Gen?ve,Ms.#Anne#Dodsworth#Sales Representative,35,13.9
 10255,36,Inlagd Sill,12/07/2018,15/07/2018,09/08/2018,Richter Supermarkt,Switzerland,Gen?ve,Ms.#Anne#Dodsworth#Sales Representative,25,15.2
 10255,59,Raclette Courdavault,12/07/2018,15/07/2018,09/08/2018,Richter Supermarkt,Switzerland,Gen?ve,Ms.#Anne#Dodsworth#Sales Representative,30,44
@@ -28,7 +28,7 @@ OrderID,Product Code,ProductName,OrderDate,ShippedDate,RequiredDate,Cutomer Name
 10257,27,Schoggi Schokolade,16/07/2018,22/07/2018,13/08/2018,HILARION-Abastos,Venezuela,San Crist?bal,Mrs.#Margaret#Peacock#Sales Representative,25,35.1
 10257,39,Chartreuse verte,16/07/2018,22/07/2018,13/08/2018,HILARION-Abastos,Venezuela,San Crist?bal,Mrs.#Margaret#Peacock#Sales Representative,6,14.4
 10257,77,Original Frankfurter gr?ne So?e,16/07/2018,22/07/2018,13/08/2018,HILARION-Abastos,Venezuela,San Crist?bal,Mrs.#Margaret#Peacock#Sales Representative,15,10.4
-10258,2,Chang,17/07/2018,23/07/2018,14/08/2018,Ernst Handel,Austria,Graz,Ms.#Nancy#Davolio#Sales Representative,50,15.2
+10258,2,Chang,17/07/2018,23/07/2018,14/08/2018,Ernst Handel,Austria,#NAA,Ms.#Nancy#Davolio#Sales Representative,50,15.2
 10258,5,Chef Anton's Gumbo Mix,17/07/2018,23/07/2018,14/08/2018,Ernst Handel,Austria,Graz,Ms.#Nancy#Davolio#Sales Representative,65,17
 10258,32,Mascarpone Fabioli,17/07/2018,23/07/2018,14/08/2018,Ernst Handel,Austria,Graz,Ms.#Nancy#Davolio#Sales Representative,6,25.6
 10259,21,Sir Rodney's Scones,18/07/2018,25/07/2018,15/08/2018,Centro comercial Moctezuma,Mexico,M?xico D.F.,Mrs.#Margaret#Peacock#Sales Representative,10,8
@@ -57,7 +57,7 @@ OrderID,Product Code,ProductName,OrderDate,ShippedDate,RequiredDate,Cutomer Name
 10268,29,Th?ringer Rostbratwurst,30/07/2018,02/08/2018,27/08/2018,GROSELLA-Restaurante,Venezuela,Caracas,Ms.#Laura#Callahan#Inside Sales Coordinator,10,99
 10268,72,Mozzarella di Giovanni,30/07/2018,02/08/2018,27/08/2018,GROSELLA-Restaurante,Venezuela,Caracas,Ms.#Laura#Callahan#Inside Sales Coordinator,4,27.8
 10269,33,Geitost,31/07/2018,09/08/2018,14/08/2018,White Clover Markets,USA,Seattle,Mr.#Steven#Buchanan#Sales Manager,60,2
-10269,72,Mozzarella di Giovanni,31/07/2018,09/08/2018,14/08/2018,White Clover Markets,USA,Seattle,Mr.#Steven#Buchanan#Sales Manager,20,27.8
+10269,72,Mozzarella di Giovanni,31/07/2018,09/08/2018,14/08/2018,White Clover Markets,USA,Seattle,Mr.#Steven#Buchanan#Sales Manager,#NAA,27.8
 10270,36,Inlagd Sill,01/08/2018,02/08/2018,29/08/2018,Wartian Herkku,Finland,Oulu,Ms.#Nancy#Davolio#Sales Representative,30,15.2
 10270,43,Ipoh Coffee,01/08/2018,02/08/2018,29/08/2018,Wartian Herkku,Finland,Oulu,Ms.#Nancy#Davolio#Sales Representative,25,36.8
 10271,33,Geitost,01/08/2018,30/08/2018,29/08/2018,Split Rail Beer & Ale,USA,Lander,Mr.#Michael#Suyama#Sales Representative,24,2
@@ -65,11 +65,11 @@ OrderID,Product Code,ProductName,OrderDate,ShippedDate,RequiredDate,Cutomer Name
 10272,31,Gorgonzola Telino,02/08/2018,06/08/2018,30/08/2018,Rattlesnake Canyon Grocery,USA,Albuquerque,Mr.#Michael#Suyama#Sales Representative,40,10
 10272,72,Mozzarella di Giovanni,02/08/2018,06/08/2018,30/08/2018,Rattlesnake Canyon Grocery,USA,Albuquerque,Mr.#Michael#Suyama#Sales Representative,24,27.8
 10273,10,Ikura,05/08/2018,12/08/2018,02/09/2018,QUICK-Stop,Germany,Cunewalde,Ms.#Janet#Leverling#Sales Representative,24,24.8
-10273,31,Gorgonzola Telino,05/08/2018,12/08/2018,02/09/2018,QUICK-Stop,Germany,Cunewalde,Ms.#Janet#Leverling#Sales Representative,15,10
+10273,31,Gorgonzola Telino,05/08/2018,12/08/2018,02/09/2018,QUICK-Stop,Germany,Cunewalde,Ms.#Janet#Leverling#Sales Representative,#NAA,10
 10273,33,Geitost,05/08/2018,12/08/2018,02/09/2018,QUICK-Stop,Germany,Cunewalde,Ms.#Janet#Leverling#Sales Representative,20,2
 10273,40,Boston Crab Meat,05/08/2018,12/08/2018,02/09/2018,QUICK-Stop,Germany,Cunewalde,Ms.#Janet#Leverling#Sales Representative,60,14.7
 10273,76,Lakkalik??ri,05/08/2018,12/08/2018,02/09/2018,QUICK-Stop,Germany,Cunewalde,Ms.#Janet#Leverling#Sales Representative,33,14.4
-10274,71,Flotemysost,06/08/2018,16/08/2018,03/09/2018,Vins et alcools Chevalier,France,Reims,Mr.#Michael#Suyama#Sales Representative,20,17.2
+10274,71,Flotemysost,06/08/2018,16/08/2018,03/09/2018,Vins et alcools Chevalier,France,Reims,Mr.#Michael#Suyama#Sales Representative,#NAA,#NAA
 10274,72,Mozzarella di Giovanni,06/08/2018,16/08/2018,03/09/2018,Vins et alcools Chevalier,France,Reims,Mr.#Michael#Suyama#Sales Representative,7,27.8
 10275,24,Guaran? Fant?stica,07/08/2018,09/08/2018,04/09/2018,Magazzini Alimentari Riuniti,Italy,Bergamo,Ms.#Nancy#Davolio#Sales Representative,12,3.6
 10275,59,Raclette Courdavault,07/08/2018,09/08/2018,04/09/2018,Magazzini Alimentari Riuniti,Italy,Bergamo,Ms.#Nancy#Davolio#Sales Representative,6,44
