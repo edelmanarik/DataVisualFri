@@ -1,0 +1,1164 @@
+Time Stamp,Type_Customer,Supplier ID,Supplier_state_name,UnitPrice,SalesQuantity,TitleOfCourtesy##FirstName##LastName##EmpCountry,Customer_ Country,Customer_City,Discount
+01/01/2015 20:08,Reg,6,Maine,113,19,Mr.##Steven##Buchanan##France,France,Reims,0.18
+04/01/2015 17:24,Reg,23,Maine,106,27,Mr.##Steven##Buchanan##France,France,Reims,0.18
+05/01/2015 10:43,Silver,10,Maine,184,15,Mr.##Steven##Buchanan##France,France,Reims,0.02
+06/01/2015 10:28,VIP,11,Massachusetts,94,10,Mr.##Michael##Suyama##Germany,Germany,M?nster,0.31
+06/01/2015 10:28,Reg,25,Massachusetts,155,25,Mr.##Michael##Suyama##Germany,Germany,M?nster,0.24
+07/01/2015 9:30,Silver,25,Maine,115,18,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.16
+07/01/2015 11:11,Reg,16,Puerto Rico,174,20,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.06
+07/01/2015 12:30,Silver,28,Massachusetts,149,21,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.18
+08/01/2015 11:39,VIP,26,Puerto Rico,168,10,Ms.##Janet##Leverling##France,France,Lyon,0.29
+09/01/2015 15:13,VIP,25,New Hampshire,166,30,Ms.##Janet##Leverling##France,France,Lyon,0.13
+10/01/2015 15:36,Silver,16,New Hampshire,101,21,Ms.##Janet##Leverling##France,France,Lyon,0.1
+11/01/2015 12:28,Silver,13,Massachusetts,166,13,Mrs.##Margaret##Peacock##Belgium,Belgium,Charleroi,0.05
+12/01/2015 17:13,Reg,1,New Hampshire,158,24,Mrs.##Margaret##Peacock##Belgium,Belgium,Charleroi,0.3
+14/01/2015 19:00,Silver,25,New Hampshire,157,30,Mrs.##Margaret##Peacock##Belgium,Belgium,Charleroi,0.22
+15/01/2015 17:58,VIP,22,Rhode Island,141,13,Ms.##Janet##Leverling##Brazil,Brazil,Rio de Janeiro,0.09
+15/01/2015 17:58,Silver,11,Rhode Island,157,30,Ms.##Janet##Leverling##Brazil,Brazil,Rio de Janeiro,0.13
+15/01/2015 17:58,Reg,20,Massachusetts,106,23,Ms.##Janet##Leverling##Brazil,Brazil,Rio de Janeiro,0.15
+15/01/2015 17:58,Silver,20,Massachusetts,184,11,Mr.##Steven##Buchanan##Switzerland,Switzerland,Bern,0.21
+19/01/2015 14:09,VIP,14,Massachusetts,94,29,Mr.##Steven##Buchanan##Switzerland,Switzerland,Bern,0.26
+19/01/2015 16:16,Reg,5,New Hampshire,155,21,Mr.##Steven##Buchanan##Switzerland,Switzerland,Bern,0.09
+19/01/2015 19:16,Reg,29,Rhode Island,115,12,Ms.##Anne##Dodsworth##Switzerland,Switzerland,Gen?ve,0.01
+20/01/2015 10:06,Silver,27,New Hampshire,174,28,Ms.##Anne##Dodsworth##Switzerland,Switzerland,Gen?ve,0.05
+21/01/2015 15:50,Reg,29,Rhode Island,149,14,Ms.##Anne##Dodsworth##Switzerland,Switzerland,Gen?ve,0.29
+23/01/2015 11:22,Reg,3,Maine,168,29,Ms.##Anne##Dodsworth##Switzerland,Switzerland,Gen?ve,0.01
+23/01/2015 11:22,VIP,7,Massachusetts,166,18,Ms.##Janet##Leverling##Brazil,Brazil,Resende,0.29
+23/01/2015 13:40,Reg,22,New Hampshire,101,12,Ms.##Janet##Leverling##Brazil,Brazil,Resende,0.1
+23/01/2015 13:40,Reg,19,Rhode Island,166,17,Mrs.##Margaret##Peacock##Venezuela,Venezuela,San Crist?bal,0.18
+26/01/2015 18:02,VIP,19,Rhode Island,158,25,Mrs.##Margaret##Peacock##Venezuela,Venezuela,San Crist?bal,0.2
+27/01/2015 10:50,Reg,2,Massachusetts,157,14,Mrs.##Margaret##Peacock##Venezuela,Venezuela,San Crist?bal,0.22
+27/01/2015 11:32,Silver,5,Puerto Rico,141,21,Ms.##Nancy##Davolio##Austria,Austria,Graz,0.02
+27/01/2015 11:32,Silver,22,New Hampshire,114,26,Ms.##Nancy##Davolio##Austria,Austria,Graz,0.24
+27/01/2015 11:32,Reg,3,Maine,146,17,Ms.##Nancy##Davolio##Austria,Austria,Graz,0.09
+28/01/2015 16:04,Reg,17,Massachusetts,131,18,Mrs.##Margaret##Peacock##Mexico,Mexico,M?xico D.F.,0.13
+28/01/2015 20:57,VIP,1,Massachusetts,110,12,Mrs.##Margaret##Peacock##Mexico,Mexico,M?xico D.F.,0.17
+29/01/2015 16:02,Reg,14,New Hampshire,124,10,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.12
+29/01/2015 16:02,VIP,1,Maine,180,20,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.06
+29/01/2015 16:02,Reg,16,Puerto Rico,157,29,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.33
+30/01/2015 14:17,Silver,3,Maine,120,28,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.15
+30/01/2015 14:17,VIP,17,Puerto Rico,82,30,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.31
+30/01/2015 14:17,VIP,27,Rhode Island,145,18,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.21
+31/01/2015 11:18,Reg,3,Maine,87,28,Ms.##Laura##Callahan##USA,USA,Albuquerque,0.15
+31/01/2015 11:18,Reg,15,Massachusetts,166,27,Ms.##Laura##Callahan##USA,USA,Albuquerque,0.32
+31/01/2015 19:32,Silver,26,Massachusetts,92,14,Ms.##Laura##Callahan##USA,USA,Albuquerque,0.03
+01/02/2015 20:18,Silver,7,Maine,131,14,Ms.##Anne##Dodsworth##Austria,Austria,Graz,0.14
+01/02/2015 20:18,Reg,4,Maine,141,15,Ms.##Anne##Dodsworth##Austria,Austria,Graz,0.09
+01/02/2015 20:18,Reg,17,Maine,200,25,Ms.##Anne##Dodsworth##Austria,Austria,Graz,0.28
+02/02/2015 20:03,Reg,4,Maine,141,29,Ms.##Anne##Dodsworth##Austria,Austria,Graz,0.26
+03/02/2015 13:13,Silver,2,New Hampshire,97,16,Mr.##Michael##Suyama##Sweden,Sweden,Br?cke,0.24
+03/02/2015 13:13,Reg,25,Massachusetts,88,12,Mr.##Michael##Suyama##Sweden,Sweden,Br?cke,0.11
+03/02/2015 20:58,Silver,6,Maine,143,18,Dr.##Andrew##Fuller##France,France,Strasbourg,0.02
+03/02/2015 20:58,VIP,10,Maine,126,17,Dr.##Andrew##Fuller##France,France,Strasbourg,0.08
+04/02/2015 13:42,Silver,18,New Hampshire,160,19,Ms.##Janet##Leverling##Finland,Finland,Oulu,0.31
+04/02/2015 15:26,VIP,25,Maine,183,12,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.15
+05/02/2015 11:15,Reg,22,Maine,106,27,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.17
+05/02/2015 12:10,VIP,8,Maine,133,24,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.2
+10/02/2015 16:57,Silver,13,Massachusetts,135,30,Ms.##Laura##Callahan##Venezuela,Venezuela,Caracas,0.09
+10/02/2015 20:58,VIP,15,New Hampshire,174,28,Ms.##Laura##Callahan##Venezuela,Venezuela,Caracas,0.15
+11/02/2015 11:03,Reg,22,Rhode Island,83,21,Mr.##Steven##Buchanan##USA,USA,Seattle,0.23
+11/02/2015 11:03,Silver,24,Maine,115,24,Mr.##Steven##Buchanan##USA,USA,Seattle,0.15
+11/02/2015 15:50,Silver,27,Massachusetts,95,22,Ms.##Nancy##Davolio##Finland,Finland,Oulu,0.12
+11/02/2015 15:50,VIP,10,New Hampshire,151,23,Ms.##Nancy##Davolio##Finland,Finland,Oulu,0.03
+12/02/2015 10:32,Silver,28,Massachusetts,155,26,Mr.##Michael##Suyama##USA,USA,Lander,0.12
+12/02/2015 10:32,Reg,3,Maine,142,16,Mr.##Michael##Suyama##USA,USA,Albuquerque,0.01
+13/02/2015 14:25,Silver,17,New Hampshire,179,19,Mr.##Michael##Suyama##USA,USA,Albuquerque,0.29
+13/02/2015 14:25,Silver,2,New Hampshire,77,26,Mr.##Michael##Suyama##USA,USA,Albuquerque,0.07
+17/02/2015 10:56,Reg,7,Maine,79,15,Ms.##Janet##Leverling##Germany,Germany,Cunewalde,0.12
+17/02/2015 12:05,Silver,29,New Hampshire,109,17,Ms.##Janet##Leverling##Germany,Germany,Cunewalde,0.33
+18/02/2015 15:07,Reg,8,Massachusetts,94,27,Ms.##Janet##Leverling##Germany,Germany,Cunewalde,0.03
+18/02/2015 19:11,Reg,27,Rhode Island,172,13,Ms.##Janet##Leverling##Germany,Germany,Cunewalde,0.29
+18/02/2015 20:26,Silver,13,Maine,175,25,Ms.##Janet##Leverling##Germany,Germany,Cunewalde,0.08
+19/02/2015 19:01,VIP,20,Massachusetts,121,13,Mr.##Michael##Suyama##France,France,Reims,0.13
+19/02/2015 19:11,VIP,21,Puerto Rico,187,15,Mr.##Michael##Suyama##France,France,Reims,0.3
+19/02/2015 19:11,Silver,1,Maine,129,18,Ms.##Nancy##Davolio##Italy,Italy,Bergamo,0.18
+20/02/2015 10:49,Silver,14,Maine,122,25,Ms.##Nancy##Davolio##Italy,Italy,Bergamo,0.29
+20/02/2015 17:38,VIP,1,Massachusetts,82,10,Ms.##Laura##Callahan##Mexico,Mexico,M?xico D.F.,0.27
+20/02/2015 18:28,VIP,26,Maine,125,16,Ms.##Laura##Callahan##Mexico,Mexico,M?xico D.F.,0.12
+20/02/2015 18:28,Reg,9,New Hampshire,104,17,Dr.##Andrew##Fuller##Germany,Germany,Leipzig,0.23
+21/02/2015 12:28,Silver,17,Massachusetts,150,13,Dr.##Andrew##Fuller##Germany,Germany,Leipzig,0.18
+21/02/2015 12:28,Silver,20,Maine,165,21,Ms.##Laura##Callahan##Sweden,Sweden,Lule?,0.32
+21/02/2015 12:28,Silver,16,Massachusetts,179,15,Ms.##Laura##Callahan##Sweden,Sweden,Lule?,0.07
+21/02/2015 12:28,VIP,9,Maine,104,27,Ms.##Laura##Callahan##Sweden,Sweden,Lule?,0.18
+21/02/2015 13:49,Reg,19,New Hampshire,65,20,Ms.##Laura##Callahan##Sweden,Sweden,Lule?,0.1
+21/02/2015 13:49,Reg,15,Massachusetts,125,16,Ms.##Laura##Callahan##Germany,Germany,Frankfurt a.M.,0.31
+21/02/2015 13:49,Reg,9,Maine,83,11,Dr.##Andrew##Fuller##Sweden,Sweden,Lule?,0.02
+22/02/2015 13:02,Silver,17,Maine,136,15,Dr.##Andrew##Fuller##Sweden,Sweden,Lule?,0.33
+22/02/2015 19:37,Silver,23,Maine,140,17,Dr.##Andrew##Fuller##Sweden,Sweden,Lule?,0.04
+23/02/2015 11:21,Reg,13,Rhode Island,83,12,Mrs.##Margaret##Peacock##Spain,Spain,Madrid,0.24
+23/02/2015 11:21,VIP,28,New Hampshire,130,23,Mrs.##Margaret##Peacock##Spain,Spain,Madrid,0.29
+23/02/2015 11:21,Reg,4,Massachusetts,111,16,Mrs.##Margaret##Peacock##Spain,Spain,Madrid,0.01
+23/02/2015 13:45,VIP,27,Massachusetts,198,20,Mrs.##Margaret##Peacock##Spain,Spain,Madrid,0.12
+23/02/2015 13:45,Reg,2,Maine,172,24,Mrs.##Margaret##Peacock##Spain,Spain,Madrid,0.15
+23/02/2015 13:45,Silver,22,Maine,131,27,Ms.##Janet##Leverling##Venezuela,Venezuela,Barquisimeto,0.19
+23/02/2015 13:45,VIP,12,Massachusetts,134,17,Ms.##Janet##Leverling##Venezuela,Venezuela,Barquisimeto,0.16
+23/02/2015 14:38,Reg,3,Maine,108,25,Ms.##Janet##Leverling##Venezuela,Venezuela,Barquisimeto,0.12
+23/02/2015 17:29,Reg,6,Massachusetts,106,21,Ms.##Janet##Leverling##Venezuela,Venezuela,Barquisimeto,0.05
+23/02/2015 17:29,Silver,8,Massachusetts,139,28,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0.17
+23/02/2015 19:05,VIP,27,Maine,68,18,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0.23
+23/02/2015 19:05,VIP,16,Maine,134,13,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0.05
+23/02/2015 20:49,Silver,19,Maine,173,19,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0.18
+23/02/2015 20:49,Silver,4,Massachusetts,124,28,Ms.##Nancy##Davolio##Germany,Germany,Cunewalde,0.06
+24/02/2015 9:23,Reg,10,New Hampshire,133,16,Ms.##Nancy##Davolio##Germany,Germany,Cunewalde,0.21
+24/02/2015 10:14,Silver,5,Maine,129,21,Ms.##Nancy##Davolio##Germany,Germany,Cunewalde,0.12
+24/02/2015 20:10,Silver,29,Maine,146,19,Ms.##Laura##Callahan##Germany,Germany,Cunewalde,0.06
+24/02/2015 20:10,VIP,24,New Hampshire,136,27,Ms.##Laura##Callahan##Germany,Germany,Cunewalde,0.16
+25/02/2015 14:32,VIP,8,Rhode Island,104,17,Ms.##Laura##Callahan##Brazil,Brazil,Rio de Janeiro,0.31
+25/02/2015 17:52,VIP,8,Massachusetts,126,27,Ms.##Laura##Callahan##Brazil,Brazil,Rio de Janeiro,0.33
+26/02/2015 14:26,VIP,7,Rhode Island,94,15,Ms.##Laura##Callahan##Brazil,Brazil,Rio de Janeiro,0.13
+26/02/2015 14:26,Silver,7,Puerto Rico,68,24,Mrs.##Margaret##Peacock##Italy,Italy,Reggio Emilia,0.2
+26/02/2015 18:23,VIP,23,Rhode Island,157,26,Mrs.##Margaret##Peacock##Italy,Italy,Reggio Emilia,0.04
+26/02/2015 18:23,Silver,26,Maine,129,16,Mr.##Robert##King##UK,UK,London,0.03
+27/02/2015 9:34,Silver,7,New Hampshire,63,18,Mr.##Robert##King##UK,UK,London,0.13
+27/02/2015 11:01,Silver,11,Puerto Rico,120,15,Ms.##Laura##Callahan##Brazil,Brazil,Sao Paulo,0.16
+27/02/2015 11:01,Reg,19,Rhode Island,129,15,Ms.##Laura##Callahan##Brazil,Brazil,Sao Paulo,0.24
+27/02/2015 15:07,Silver,26,Massachusetts,182,16,Ms.##Laura##Callahan##Brazil,Brazil,Sao Paulo,0.14
+27/02/2015 15:40,VIP,25,Rhode Island,2,7,Ms.##Laura##Callahan##Brazil,Brazil,Sao Paulo,0.05
+27/02/2015 15:40,Silver,16,Massachusetts,128,27,Mr.##Michael##Suyama##Brazil,Brazil,Rio de Janeiro,0.24
+28/02/2015 10:24,Silver,11,Massachusetts,140,22,Mr.##Michael##Suyama##Brazil,Brazil,Rio de Janeiro,0.33
+28/02/2015 16:03,Silver,8,Massachusetts,104,23,Mr.##Michael##Suyama##Brazil,Brazil,Rio de Janeiro,0.23
+28/02/2015 16:03,Reg,12,Massachusetts,161,28,Ms.##Nancy##Davolio##Brazil,Brazil,Sao Paulo,0.01
+28/02/2015 16:03,VIP,23,Rhode Island,144,29,Ms.##Nancy##Davolio##Mexico,Mexico,M?xico D.F.,0.32
+28/02/2015 19:35,VIP,25,Maine,136,11,Ms.##Nancy##Davolio##Mexico,Mexico,M?xico D.F.,0.12
+28/02/2015 19:35,Silver,12,New Hampshire,196,17,Ms.##Nancy##Davolio##Mexico,Mexico,M?xico D.F.,0.16
+01/03/2015 11:46,Reg,16,Maine,165,16,Ms.##Nancy##Davolio##Mexico,Mexico,M?xico D.F.,0.25
+02/03/2015 10:06,VIP,10,Puerto Rico,179,20,Mrs.##Margaret##Peacock##USA,USA,Albuquerque,0.29
+02/03/2015 13:53,VIP,3,Rhode Island,67,29,Mrs.##Margaret##Peacock##USA,USA,Albuquerque,0.25
+02/03/2015 17:32,Silver,22,Massachusetts,111,13,Mrs.##Margaret##Peacock##USA,USA,Albuquerque,0.04
+04/03/2015 12:21,Reg,7,Maine,122,30,Mrs.##Margaret##Peacock##USA,USA,Albuquerque,0.06
+04/03/2015 12:21,Reg,18,Puerto Rico,134,12,Mrs.##Margaret##Peacock##USA,USA,Albuquerque,0.27
+04/03/2015 12:21,Silver,14,Maine,122,27,Dr.##Andrew##Fuller##France,France,Reims,0.29
+04/03/2015 13:22,Reg,15,Rhode Island,125,14,Mr.##Michael##Suyama##Venezuela,Venezuela,Barquisimeto,0.17
+04/03/2015 13:22,VIP,16,Massachusetts,115,24,Mr.##Michael##Suyama##Venezuela,Venezuela,Barquisimeto,0.32
+05/03/2015 19:47,Silver,6,Massachusetts,181,10,Mr.##Michael##Suyama##Venezuela,Venezuela,Barquisimeto,0.2
+05/03/2015 19:47,VIP,25,Massachusetts,121,15,Mr.##Steven##Buchanan##France,France,Strasbourg,0.27
+05/03/2015 20:31,Reg,11,Massachusetts,156,23,Mr.##Steven##Buchanan##France,France,Strasbourg,0.31
+05/03/2015 20:31,Reg,25,Massachusetts,109,28,Mr.##Michael##Suyama##Ireland,Ireland,Cork,0.27
+07/03/2015 14:04,Reg,19,Massachusetts,87,13,Mr.##Michael##Suyama##Ireland,Ireland,Cork,0.05
+08/03/2015 10:31,VIP,5,Maine,141,15,Mr.##Michael##Suyama##Ireland,Ireland,Cork,0.25
+08/03/2015 10:31,Reg,24,Maine,175,25,Mr.##Michael##Suyama##Ireland,Ireland,Cork,0.26
+08/03/2015 10:31,VIP,25,New Hampshire,113,17,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.25
+08/03/2015 14:58,Reg,8,Maine,95,22,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.21
+09/03/2015 13:45,Silver,1,Massachusetts,175,15,Dr.##Andrew##Fuller##Italy,Italy,Bergamo,0.24
+10/03/2015 12:48,VIP,8,Maine,90,26,Dr.##Andrew##Fuller##Italy,Italy,Bergamo,0.11
+10/03/2015 15:31,VIP,17,Maine,111,16,Ms.##Laura##Callahan##Germany,Germany,Stuttgart,0.07
+10/03/2015 16:45,VIP,19,Massachusetts,135,16,Ms.##Laura##Callahan##Germany,Germany,Stuttgart,0.08
+10/03/2015 19:01,Reg,8,Massachusetts,147,12,Mrs.##Margaret##Peacock##Belgium,Belgium,Charleroi,0.32
+11/03/2015 13:13,VIP,15,Maine,115,10,Mrs.##Margaret##Peacock##Belgium,Belgium,Charleroi,0.04
+11/03/2015 13:39,Reg,18,Massachusetts,129,30,Mrs.##Margaret##Peacock##Belgium,Belgium,Charleroi,0.19
+11/03/2015 14:01,Silver,12,Massachusetts,91,29,Mr.##Robert##King##Spain,Spain,Sevilla,0.18
+11/03/2015 18:23,Silver,13,New Hampshire,110,18,Mr.##Robert##King##Spain,Spain,Sevilla,0.08
+11/03/2015 18:23,VIP,29,Massachusetts,79,26,Mr.##Robert##King##Spain,Spain,Sevilla,0.24
+11/03/2015 18:36,Silver,13,Massachusetts,149,13,Ms.##Nancy##Davolio##Mexico,Mexico,M?xico D.F.,0.23
+12/03/2015 12:12,VIP,29,New Hampshire,178,13,Ms.##Nancy##Davolio##Mexico,Mexico,M?xico D.F.,0.02
+12/03/2015 12:12,Reg,19,Massachusetts,160,12,Ms.##Nancy##Davolio##Mexico,Mexico,M?xico D.F.,0.13
+12/03/2015 12:19,Reg,6,Massachusetts,135,20,Ms.##Laura##Callahan##USA,USA,Anchorage,0.04
+12/03/2015 12:54,VIP,8,Maine,150,21,Ms.##Laura##Callahan##USA,USA,Anchorage,0.19
+12/03/2015 13:33,Reg,3,New Hampshire,126,11,Ms.##Laura##Callahan##USA,USA,Anchorage,0.03
+12/03/2015 18:09,VIP,7,Massachusetts,15,8,Ms.##Nancy##Davolio##Spain,Spain,Madrid,0.17
+13/03/2015 14:19,Silver,4,Massachusetts,101,12,Ms.##Nancy##Davolio##Spain,Spain,Madrid,0.3
+15/03/2015 9:55,Reg,29,Massachusetts,189,23,Ms.##Nancy##Davolio##Spain,Spain,Madrid,0
+15/03/2015 9:55,Reg,27,Maine,113,27,Dr.##Andrew##Fuller##USA,USA,Portland,0.12
+15/03/2015 17:11,VIP,15,Massachusetts,142,13,Dr.##Andrew##Fuller##USA,USA,Portland,0.05
+16/03/2015 12:50,Silver,4,Massachusetts,63,24,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.32
+17/03/2015 16:23,VIP,20,Massachusetts,146,20,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.2
+17/03/2015 16:23,Reg,19,New Hampshire,156,16,Ms.##Janet##Leverling##Ireland,Ireland,Cork,0.08
+18/03/2015 20:46,VIP,17,New Hampshire,106,16,Ms.##Janet##Leverling##Ireland,Ireland,Cork,0.09
+19/03/2015 11:51,Silver,19,New Hampshire,134,29,Ms.##Janet##Leverling##Ireland,Ireland,Cork,0.28
+19/03/2015 11:51,Reg,18,Maine,114,14,Ms.##Janet##Leverling##Ireland,Ireland,Cork,0.16
+19/03/2015 14:12,Silver,27,New Hampshire,126,28,Ms.##Janet##Leverling##Ireland,Ireland,Cork,0.23
+20/03/2015 15:19,Silver,15,New Hampshire,85,18,Ms.##Laura##Callahan##USA,USA,Portland,0.09
+21/03/2015 16:18,VIP,2,Massachusetts,176,12,Ms.##Laura##Callahan##USA,USA,Portland,0.09
+22/03/2015 9:31,VIP,14,Puerto Rico,131,16,Ms.##Nancy##Davolio##France,France,Nantes,0.2
+22/03/2015 9:31,Silver,6,Massachusetts,102,14,Ms.##Nancy##Davolio##France,France,Nantes,0.03
+22/03/2015 11:26,Reg,27,New Hampshire,107,17,Dr.##Andrew##Fuller##Germany,Germany,Stuttgart,0.07
+22/03/2015 11:26,Reg,22,Maine,111,15,Dr.##Andrew##Fuller##Germany,Germany,Stuttgart,0.09
+22/03/2015 13:50,Silver,12,Massachusetts,176,25,Dr.##Andrew##Fuller##Germany,Germany,Stuttgart,0.06
+22/03/2015 13:50,Silver,7,Puerto Rico,108,19,Dr.##Andrew##Fuller##Germany,Germany,Stuttgart,0.01
+22/03/2015 15:07,VIP,4,Massachusetts,161,24,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.22
+22/03/2015 15:07,VIP,13,Massachusetts,81,10,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.2
+22/03/2015 15:26,VIP,26,New Hampshire,119,20,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.29
+22/03/2015 18:15,Silver,20,Massachusetts,166,29,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.12
+23/03/2015 10:04,VIP,12,Puerto Rico,86,14,Mrs.##Margaret##Peacock##UK,UK,Cowes,0.21
+23/03/2015 14:56,Silver,25,New Hampshire,137,12,Mrs.##Margaret##Peacock##UK,UK,Cowes,0.32
+23/03/2015 17:27,VIP,28,Rhode Island,108,26,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.01
+23/03/2015 17:27,VIP,27,Massachusetts,134,13,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.27
+23/03/2015 20:52,Reg,26,Massachusetts,175,13,Mr.##Michael##Suyama##USA,USA,Portland,0.18
+24/03/2015 10:04,Reg,6,Maine,132,29,Ms.##Laura##Callahan##UK,UK,Cowes,0.2
+24/03/2015 11:49,Reg,6,Maine,117,25,Ms.##Laura##Callahan##UK,UK,Cowes,0.04
+24/03/2015 13:00,VIP,29,Massachusetts,154,26,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.01
+24/03/2015 14:31,VIP,2,Puerto Rico,138,29,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.16
+24/03/2015 14:31,VIP,19,Massachusetts,142,29,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.33
+24/03/2015 15:23,Silver,16,Maine,113,11,Mr.##Steven##Buchanan##Finland,Finland,Oulu,0.1
+24/03/2015 15:59,Silver,23,New Hampshire,75,13,Ms.##Janet##Leverling##UK,UK,Cowes,0.26
+24/03/2015 15:59,Reg,13,Massachusetts,119,10,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.05
+24/03/2015 16:44,VIP,26,Massachusetts,87,15,Mrs.##Margaret##Peacock##Germany,Germany,Brandenburg,0.04
+24/03/2015 16:44,Silver,28,New Hampshire,164,16,Mrs.##Margaret##Peacock##Germany,Germany,Brandenburg,0.27
+25/03/2015 10:15,Silver,14,Rhode Island,72,27,Mrs.##Margaret##Peacock##Germany,Germany,Brandenburg,0.13
+25/03/2015 15:49,Reg,20,Massachusetts,136,12,Ms.##Anne##Dodsworth##USA,USA,Boise,0.28
+26/03/2015 9:23,VIP,1,Maine,116,16,Ms.##Anne##Dodsworth##USA,USA,Boise,0.15
+26/03/2015 9:23,Reg,24,Maine,74,19,Ms.##Anne##Dodsworth##USA,USA,Boise,0.13
+26/03/2015 12:25,Reg,19,New Hampshire,105,13,Ms.##Anne##Dodsworth##USA,USA,Boise,0.24
+26/03/2015 12:25,VIP,26,Massachusetts,164,28,Ms.##Anne##Dodsworth##USA,USA,Boise,0.27
+26/03/2015 13:51,Silver,16,Massachusetts,133,21,Ms.##Nancy##Davolio##Germany,Germany,Brandenburg,0.02
+26/03/2015 17:25,Reg,22,Rhode Island,65,27,Ms.##Nancy##Davolio##Germany,Germany,Brandenburg,0.22
+27/03/2015 18:32,Silver,28,Massachusetts,135,16,Ms.##Nancy##Davolio##Germany,Germany,Brandenburg,0.17
+27/03/2015 18:32,Silver,21,Massachusetts,103,13,Ms.##Nancy##Davolio##Germany,Germany,Brandenburg,0.15
+27/03/2015 18:32,VIP,21,Massachusetts,120,22,Ms.##Nancy##Davolio##Germany,Germany,Brandenburg,0.22
+28/03/2015 12:18,VIP,9,Massachusetts,87,4,Mrs.##Margaret##Peacock##Spain,Spain,Madrid,0.17
+28/03/2015 19:48,Reg,24,Puerto Rico,138,12,Mrs.##Margaret##Peacock##Spain,Spain,Madrid,0.09
+29/03/2015 9:28,Silver,28,Maine,133,14,Mrs.##Margaret##Peacock##Spain,Spain,Madrid,0.17
+29/03/2015 12:02,VIP,5,Puerto Rico,131,20,Dr.##Andrew##Fuller##Sweden,Sweden,Br?cke,0.1
+29/03/2015 12:05,VIP,24,Puerto Rico,105,30,Dr.##Andrew##Fuller##Sweden,Sweden,Br?cke,0.02
+29/03/2015 12:05,VIP,7,Maine,81,10,Dr.##Andrew##Fuller##Sweden,Sweden,Br?cke,0.31
+29/03/2015 12:05,VIP,19,New Hampshire,113,23,Dr.##Andrew##Fuller##Sweden,Sweden,Br?cke,0.18
+29/03/2015 12:05,Silver,14,Massachusetts,99,29,Mrs.##Margaret##Peacock##Portugal,Portugal,Lisboa,0.07
+29/03/2015 12:05,Silver,9,New Hampshire,119,29,Mrs.##Margaret##Peacock##Portugal,Portugal,Lisboa,0.28
+29/03/2015 13:03,Reg,7,Massachusetts,176,30,Mrs.##Margaret##Peacock##Portugal,Portugal,Lisboa,0.03
+29/03/2015 13:03,Reg,8,Puerto Rico,149,12,Mrs.##Margaret##Peacock##USA,USA,Lander,0.33
+29/03/2015 13:03,Silver,12,New Hampshire,101,12,Mrs.##Margaret##Peacock##USA,USA,Lander,0.12
+29/03/2015 13:03,VIP,9,Massachusetts,111,21,Mrs.##Margaret##Peacock##USA,USA,Lander,0.13
+29/03/2015 13:14,Silver,4,Massachusetts,30,5,Mrs.##Margaret##Peacock##USA,USA,Lander,0.07
+29/03/2015 20:24,Reg,18,Maine,90,21,Ms.##Janet##Leverling##Venezuela,Venezuela,Barquisimeto,0.12
+30/03/2015 9:36,Reg,9,Rhode Island,126,17,Ms.##Janet##Leverling##Venezuela,Venezuela,Barquisimeto,0.25
+30/03/2015 9:36,VIP,29,Maine,186,24,Ms.##Anne##Dodsworth##France,France,Marseille,0.3
+30/03/2015 10:18,VIP,3,New Hampshire,139,13,Ms.##Janet##Leverling##Canada,Canada,Montr?al,0.03
+30/03/2015 10:18,VIP,19,Maine,141,23,Ms.##Janet##Leverling##Canada,Canada,Montr?al,0.07
+30/03/2015 10:18,Silver,21,Massachusetts,134,12,Ms.##Janet##Leverling##Canada,Canada,Montr?al,0.22
+30/03/2015 14:14,Reg,11,Puerto Rico,149,14,Mr.##Steven##Buchanan##Finland,Finland,Oulu,0.2
+30/03/2015 16:04,VIP,16,Massachusetts,137,22,Mr.##Steven##Buchanan##Finland,Finland,Oulu,0.03
+30/03/2015 16:04,Silver,13,Maine,128,11,Mr.##Steven##Buchanan##Finland,Finland,Oulu,0.07
+31/03/2015 9:05,VIP,12,Maine,130,14,Ms.##Laura##Callahan##France,France,Lyon,0.26
+31/03/2015 9:05,Silver,18,Maine,106,10,Ms.##Laura##Callahan##France,France,Lyon,0.29
+31/03/2015 9:20,Reg,24,Massachusetts,138,18,Mr.##Robert##King##Ireland,Ireland,Cork,0.21
+31/03/2015 11:17,Silver,1,New Hampshire,168,18,Mr.##Robert##King##Ireland,Ireland,Cork,0.19
+31/03/2015 11:17,Silver,12,Massachusetts,119,29,Mr.##Robert##King##Ireland,Ireland,Cork,0.02
+31/03/2015 11:17,Reg,3,New Hampshire,147,30,Mr.##Robert##King##Ireland,Ireland,Cork,0.28
+31/03/2015 12:39,Reg,10,Puerto Rico,107,25,Mr.##Robert##King##Portugal,Portugal,Lisboa,0
+31/03/2015 12:39,Silver,18,Massachusetts,87,29,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.05
+31/03/2015 12:39,Reg,25,Maine,164,10,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.24
+31/03/2015 13:17,Silver,29,Massachusetts,126,30,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.31
+31/03/2015 13:17,VIP,15,New Hampshire,192,11,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.07
+31/03/2015 13:17,Reg,14,Maine,125,15,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.28
+31/03/2015 13:17,Silver,12,Maine,184,21,Mrs.##Margaret##Peacock##USA,USA,Anchorage,0.03
+31/03/2015 13:25,VIP,20,Rhode Island,151,25,Mrs.##Margaret##Peacock##USA,USA,Anchorage,0.29
+31/03/2015 15:16,Reg,25,Massachusetts,86,20,Dr.##Andrew##Fuller##Canada,Canada,Montr?al,0.01
+31/03/2015 15:37,Reg,7,Massachusetts,175,23,Dr.##Andrew##Fuller##Canada,Canada,Montr?al,0.03
+31/03/2015 16:47,Reg,10,New Hampshire,96,10,Dr.##Andrew##Fuller##Canada,Canada,Montr?al,0.14
+31/03/2015 16:47,VIP,29,Massachusetts,186,22,Ms.##Nancy##Davolio##France,France,Marseille,0.15
+31/03/2015 16:47,Silver,10,Maine,106,14,Ms.##Nancy##Davolio##France,France,Marseille,0.04
+31/03/2015 16:47,Silver,3,Maine,151,30,Ms.##Nancy##Davolio##France,France,Marseille,0.2
+31/03/2015 16:53,VIP,21,New Hampshire,72,24,Mr.##Robert##King##Denmark,Denmark,Kobenhavn,0.14
+31/03/2015 16:53,Silver,22,Rhode Island,150,18,Mr.##Robert##King##Denmark,Denmark,Kobenhavn,0.23
+31/03/2015 16:53,VIP,11,Massachusetts,149,19,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.19
+31/03/2015 17:05,Reg,11,Puerto Rico,184,10,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.16
+31/03/2015 17:09,VIP,14,Maine,111,26,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.28
+31/03/2015 17:53,Silver,20,Puerto Rico,112,26,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.13
+31/03/2015 17:53,VIP,7,Puerto Rico,112,12,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0.13
+31/03/2015 18:53,VIP,26,Massachusetts,66,10,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0.11
+31/03/2015 18:53,Reg,3,Massachusetts,84,11,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0
+31/03/2015 19:16,VIP,12,Rhode Island,94,26,Mrs.##Margaret##Peacock##USA,USA,Seattle,0.3
+31/03/2015 20:47,VIP,15,Massachusetts,98,15,Mrs.##Margaret##Peacock##USA,USA,Seattle,0.12
+31/03/2015 20:47,Silver,11,Puerto Rico,103,11,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.08
+02/04/2015 16:35,Reg,13,Rhode Island,121,21,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.18
+02/04/2015 16:35,Silver,22,Massachusetts,146,19,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.24
+05/04/2015 15:36,VIP,16,Massachusetts,156,16,Ms.##Janet##Leverling##USA,USA,Albuquerque,0.09
+05/04/2015 15:36,VIP,7,Maine,110,30,Ms.##Janet##Leverling##USA,USA,Albuquerque,0.1
+05/04/2015 15:36,Reg,17,Maine,124,28,Mrs.##Margaret##Peacock##Brazil,Brazil,Sao Paulo,0.27
+05/04/2015 16:24,Silver,15,New Hampshire,113,16,Mrs.##Margaret##Peacock##Brazil,Brazil,Sao Paulo,0.32
+05/04/2015 16:24,VIP,9,Massachusetts,168,18,Mrs.##Margaret##Peacock##Brazil,Brazil,Sao Paulo,0.22
+05/04/2015 16:24,Silver,24,Maine,148,15,Mrs.##Margaret##Peacock##Brazil,Brazil,Sao Paulo,0.13
+05/04/2015 17:15,Reg,29,Maine,130,22,Mrs.##Margaret##Peacock##Germany,Germany,Stuttgart,0.13
+06/04/2015 9:05,VIP,15,Maine,130,20,Mrs.##Margaret##Peacock##Germany,Germany,Stuttgart,0.21
+06/04/2015 9:05,Silver,26,Rhode Island,132,28,Mr.##Robert##King##USA,USA,Lander,0.09
+06/04/2015 12:44,VIP,19,Maine,106,11,Mr.##Michael##Suyama##France,France,Toulouse,0.04
+06/04/2015 13:01,Reg,15,Massachusetts,108,14,Mr.##Michael##Suyama##France,France,Toulouse,0.33
+06/04/2015 15:01,Silver,2,Massachusetts,138,24,Ms.##Nancy##Davolio##Austria,Austria,Graz,0.2
+06/04/2015 17:00,VIP,2,Massachusetts,174,24,Ms.##Nancy##Davolio##Austria,Austria,Graz,0.04
+06/04/2015 17:00,VIP,29,Massachusetts,112,22,Ms.##Nancy##Davolio##Austria,Austria,Graz,0.23
+06/04/2015 17:00,Silver,8,Massachusetts,123,11,Ms.##Nancy##Davolio##Austria,Austria,Graz,0.33
+06/04/2015 17:10,VIP,8,Rhode Island,123,17,Ms.##Janet##Leverling##Portugal,Portugal,Lisboa,0.2
+06/04/2015 18:16,VIP,29,Massachusetts,154,11,Ms.##Janet##Leverling##Portugal,Portugal,Lisboa,0.21
+06/04/2015 18:33,Reg,21,Massachusetts,142,20,Mr.##Robert##King##Austria,Austria,Salzburg,0.27
+07/04/2015 13:06,Reg,7,Maine,178,23,Mr.##Robert##King##Austria,Austria,Salzburg,0.18
+07/04/2015 18:39,Silver,6,Massachusetts,160,26,Ms.##Laura##Callahan##Mexico,Mexico,M?xico D.F.,0.26
+08/04/2015 11:07,VIP,22,Massachusetts,151,25,Ms.##Laura##Callahan##Mexico,Mexico,M?xico D.F.,0.24
+08/04/2015 17:23,Silver,29,Rhode Island,103,14,Mr.##Michael##Suyama##UK,UK,Colchester,0.09
+08/04/2015 18:10,Silver,4,Puerto Rico,90,20,Mr.##Michael##Suyama##UK,UK,Colchester,0.23
+08/04/2015 19:39,VIP,13,Maine,190,10,Mr.##Michael##Suyama##Germany,Germany,Stuttgart,0.13
+09/04/2015 10:20,Reg,3,Maine,173,23,Mr.##Michael##Suyama##Germany,Germany,Stuttgart,0.1
+09/04/2015 10:39,Reg,23,Maine,148,15,Mr.##Michael##Suyama##Germany,Germany,Stuttgart,0.17
+09/04/2015 11:39,Silver,10,Maine,168,12,Ms.##Nancy##Davolio##Venezuela,Venezuela,Barquisimeto,0.24
+09/04/2015 11:39,Reg,4,Massachusetts,127,14,Ms.##Nancy##Davolio##Venezuela,Venezuela,Barquisimeto,0.08
+09/04/2015 16:48,VIP,4,Massachusetts,134,18,Ms.##Nancy##Davolio##Venezuela,Venezuela,Barquisimeto,0.26
+10/04/2015 9:32,Reg,19,Puerto Rico,152,24,Mr.##Steven##Buchanan##France,France,Toulouse,0.19
+12/04/2015 10:51,Reg,23,Massachusetts,121,16,Mr.##Steven##Buchanan##France,France,Toulouse,0.08
+12/04/2015 10:51,VIP,27,Maine,88,18,Mr.##Steven##Buchanan##France,France,Toulouse,0.09
+12/04/2015 11:49,Silver,15,Maine,189,16,Mr.##Steven##Buchanan##UK,UK,London,0.11
+12/04/2015 12:32,Reg,19,Puerto Rico,93,12,Mr.##Steven##Buchanan##UK,UK,London,0.19
+12/04/2015 12:42,VIP,16,Puerto Rico,116,29,Mr.##Steven##Buchanan##UK,UK,London,0.09
+12/04/2015 13:18,Silver,2,Maine,78,11,Mrs.##Margaret##Peacock##France,France,Strasbourg,0.22
+13/04/2015 11:24,VIP,6,Massachusetts,112,26,Mrs.##Margaret##Peacock##France,France,Strasbourg,0.15
+13/04/2015 17:37,VIP,22,Massachusetts,159,27,Mrs.##Margaret##Peacock##France,France,Strasbourg,0.11
+13/04/2015 20:04,Silver,17,Maine,118,12,Mrs.##Margaret##Peacock##France,France,Strasbourg,0.03
+13/04/2015 20:04,VIP,9,Puerto Rico,79,12,Mrs.##Margaret##Peacock##France,France,Strasbourg,0.07
+13/04/2015 20:04,Silver,5,Maine,63,11,Ms.##Nancy##Davolio##Germany,Germany,Cunewalde,0.22
+13/04/2015 20:04,VIP,9,Massachusetts,141,27,Ms.##Nancy##Davolio##Germany,Germany,Cunewalde,0.26
+14/04/2015 10:18,Reg,27,Rhode Island,177,20,Ms.##Janet##Leverling##France,France,Marseille,0.2
+14/04/2015 10:18,Reg,2,Massachusetts,77,11,Ms.##Janet##Leverling##France,France,Marseille,0.18
+14/04/2015 10:18,Silver,2,Puerto Rico,104,24,Ms.##Janet##Leverling##France,France,Marseille,0.33
+14/04/2015 18:06,Reg,14,New Hampshire,116,22,Mrs.##Margaret##Peacock##Germany,Germany,Aachen,0.11
+14/04/2015 20:36,Reg,22,Massachusetts,109,20,Mrs.##Margaret##Peacock##Germany,Germany,Aachen,0.06
+14/04/2015 20:36,VIP,6,Rhode Island,166,22,Mrs.##Margaret##Peacock##Germany,Germany,Aachen,0.08
+15/04/2015 11:04,VIP,15,Maine,126,26,Ms.##Nancy##Davolio##UK,UK,London,0.06
+15/04/2015 14:27,VIP,13,New Hampshire,101,20,Ms.##Nancy##Davolio##UK,UK,London,0.21
+15/04/2015 14:27,Silver,19,Puerto Rico,105,19,Ms.##Janet##Leverling##Mexico,Mexico,M?xico D.F.,0
+15/04/2015 17:09,Reg,26,Puerto Rico,118,11,Ms.##Laura##Callahan##Spain,Spain,Barcelona,0.2
+15/04/2015 19:14,Silver,23,Maine,78,26,Ms.##Laura##Callahan##Spain,Spain,Barcelona,0.24
+15/04/2015 19:40,Silver,11,New Hampshire,78,12,Mr.##Robert##King##Denmark,Denmark,?rhus,0.31
+15/04/2015 20:59,Reg,2,New Hampshire,162,18,Mr.##Robert##King##Denmark,Denmark,?rhus,0.12
+15/04/2015 20:59,Reg,23,Massachusetts,99,22,Mr.##Robert##King##Denmark,Denmark,?rhus,0.06
+16/04/2015 12:55,Reg,6,Maine,102,16,Mr.##Robert##King##Denmark,Denmark,?rhus,0.06
+16/04/2015 12:55,VIP,19,New Hampshire,146,30,Dr.##Andrew##Fuller##Austria,Austria,Graz,0.09
+16/04/2015 12:55,Silver,13,New Hampshire,154,26,Dr.##Andrew##Fuller##Austria,Austria,Graz,0.14
+18/04/2015 10:28,Reg,21,Massachusetts,163,28,Dr.##Andrew##Fuller##Austria,Austria,Graz,0.12
+18/04/2015 10:28,VIP,15,Massachusetts,140,15,Dr.##Andrew##Fuller##Austria,Austria,Graz,0.11
+18/04/2015 12:38,VIP,7,Maine,107,26,Ms.##Laura##Callahan##USA,USA,Lander,0.06
+19/04/2015 14:03,VIP,1,Maine,104,10,Ms.##Laura##Callahan##USA,USA,Lander,0.31
+19/04/2015 15:09,Reg,19,Maine,134,14,Mr.##Michael##Suyama##Switzerland,Switzerland,Bern,0.27
+19/04/2015 17:00,Silver,12,Massachusetts,124,16,Mr.##Michael##Suyama##Switzerland,Switzerland,Bern,0.13
+19/04/2015 17:44,VIP,27,Maine,82,17,Mr.##Michael##Suyama##Switzerland,Switzerland,Bern,0.11
+19/04/2015 19:52,VIP,4,Massachusetts,83,27,Ms.##Nancy##Davolio##France,France,Toulouse,0.12
+19/04/2015 19:52,VIP,25,Massachusetts,99,24,Mr.##Steven##Buchanan##Brazil,Brazil,Sao Paulo,0.12
+20/04/2015 9:01,Silver,5,Maine,149,22,Mr.##Steven##Buchanan##Brazil,Brazil,Sao Paulo,0.18
+20/04/2015 9:01,VIP,1,New Hampshire,153,19,Mr.##Steven##Buchanan##Brazil,Brazil,Sao Paulo,0.23
+20/04/2015 9:01,Silver,2,Puerto Rico,110,19,Mr.##Steven##Buchanan##Brazil,Brazil,Sao Paulo,0.09
+20/04/2015 11:17,Reg,24,Massachusetts,120,15,Mrs.##Margaret##Peacock##Ireland,Ireland,Cork,0.05
+20/04/2015 12:08,Reg,12,Maine,157,18,Mrs.##Margaret##Peacock##Ireland,Ireland,Cork,0.16
+20/04/2015 14:24,VIP,20,Massachusetts,162,5,Ms.##Nancy##Davolio##Poland,Poland,Warszawa,0.1
+20/04/2015 17:42,Silver,6,Massachusetts,127,18,Ms.##Nancy##Davolio##Poland,Poland,Warszawa,0.28
+20/04/2015 19:36,Reg,5,Rhode Island,135,19,Ms.##Janet##Leverling##USA,USA,Elgin,0.2
+20/04/2015 19:36,VIP,10,Massachusetts,138,12,Ms.##Janet##Leverling##USA,USA,Elgin,0.18
+21/04/2015 9:22,Reg,21,Massachusetts,151,21,Ms.##Nancy##Davolio##Canada,Canada,Montr?al,0.26
+21/04/2015 16:39,Silver,16,Massachusetts,105,16,Ms.##Nancy##Davolio##UK,UK,London,0.3
+22/04/2015 15:32,Reg,27,Massachusetts,109,28,Ms.##Nancy##Davolio##UK,UK,London,0.15
+22/04/2015 15:32,Reg,3,Puerto Rico,116,12,Mr.##Steven##Buchanan##Sweden,Sweden,Br?cke,0.11
+22/04/2015 18:15,VIP,23,Puerto Rico,167,17,Dr.##Andrew##Fuller##Brazil,Brazil,Rio de Janeiro,0.14
+22/04/2015 20:44,VIP,15,Maine,120,28,Dr.##Andrew##Fuller##Brazil,Brazil,Rio de Janeiro,0.24
+23/04/2015 10:57,Silver,15,New Hampshire,167,12,Dr.##Andrew##Fuller##Brazil,Brazil,Rio de Janeiro,0.3
+23/04/2015 10:57,Silver,17,New Hampshire,114,28,Ms.##Laura##Callahan##Ireland,Ireland,Cork,0.11
+23/04/2015 10:57,VIP,7,Maine,115,27,Ms.##Laura##Callahan##Ireland,Ireland,Cork,0.01
+23/04/2015 12:38,Silver,9,Massachusetts,159,10,Ms.##Laura##Callahan##Ireland,Ireland,Cork,0.28
+23/04/2015 12:38,Reg,2,Rhode Island,146,10,Ms.##Laura##Callahan##Ireland,Ireland,Cork,0.1
+23/04/2015 14:16,Reg,5,Maine,77,10,Ms.##Janet##Leverling##Venezuela,Venezuela,Barquisimeto,0.17
+23/04/2015 14:16,Silver,25,New Hampshire,144,13,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0.27
+23/04/2015 14:16,Reg,3,Massachusetts,123,19,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0.2
+23/04/2015 14:40,Reg,9,Maine,141,21,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0
+23/04/2015 17:10,Silver,10,Maine,116,23,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0.32
+24/04/2015 14:48,Silver,15,Rhode Island,150,30,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0.13
+25/04/2015 10:09,Silver,14,Puerto Rico,143,10,Ms.##Laura##Callahan##UK,UK,Colchester,0.03
+25/04/2015 15:57,Silver,6,Massachusetts,179,18,Ms.##Laura##Callahan##UK,UK,Colchester,0.09
+26/04/2015 16:51,Silver,29,Massachusetts,139,22,Ms.##Laura##Callahan##UK,UK,Colchester,0.04
+26/04/2015 17:33,Reg,1,Maine,179,16,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.21
+26/04/2015 20:30,VIP,3,Massachusetts,123,11,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.25
+28/04/2015 9:46,Reg,10,New Hampshire,76,30,Ms.##Nancy##Davolio##USA,USA,Lander,0.33
+28/04/2015 10:44,Silver,1,Puerto Rico,124,19,Ms.##Nancy##Davolio##USA,USA,Lander,0.04
+28/04/2015 11:40,Silver,26,Maine,85,16,Ms.##Nancy##Davolio##USA,USA,Lander,0.24
+28/04/2015 11:40,Silver,21,Maine,118,29,Ms.##Anne##Dodsworth##Brazil,Brazil,Sao Paulo,0.28
+28/04/2015 11:40,VIP,9,Massachusetts,74,23,Ms.##Anne##Dodsworth##Brazil,Brazil,Sao Paulo,0.14
+28/04/2015 13:28,VIP,10,Massachusetts,157,20,Ms.##Nancy##Davolio##Norway,Norway,Stavern,0.18
+28/04/2015 17:09,Reg,1,Massachusetts,128,10,Ms.##Nancy##Davolio##Norway,Norway,Stavern,0.29
+28/04/2015 17:09,Reg,27,Rhode Island,64,29,Ms.##Nancy##Davolio##Norway,Norway,Stavern,0.3
+29/04/2015 11:39,VIP,23,Rhode Island,120,14,Ms.##Nancy##Davolio##Norway,Norway,Stavern,0.1
+29/04/2015 14:59,Reg,10,Maine,189,20,Dr.##Andrew##Fuller##UK,UK,London,0.07
+30/04/2015 10:09,Silver,28,Massachusetts,188,28,Dr.##Andrew##Fuller##UK,UK,London,0.11
+30/04/2015 10:09,Reg,6,Massachusetts,114,29,Dr.##Andrew##Fuller##UK,UK,London,0.02
+30/04/2015 10:32,Silver,14,Maine,180,18,Mrs.##Margaret##Peacock##Canada,Canada,Tsawassen,0.22
+30/04/2015 12:01,Reg,15,Massachusetts,122,27,Mrs.##Margaret##Peacock##Canada,Canada,Tsawassen,0.28
+30/04/2015 12:01,VIP,12,Maine,172,22,Mrs.##Margaret##Peacock##Canada,Canada,Tsawassen,0.02
+30/04/2015 13:33,Reg,5,Massachusetts,149,17,Mrs.##Margaret##Peacock##Canada,Canada,Tsawassen,0.28
+30/04/2015 16:19,Silver,14,Massachusetts,113,24,Mr.##Michael##Suyama##Austria,Austria,Graz,0.07
+30/04/2015 17:48,Reg,18,Rhode Island,157,16,Mr.##Michael##Suyama##Austria,Austria,Graz,0.32
+30/04/2015 17:48,Silver,21,Maine,114,14,Mr.##Michael##Suyama##Austria,Austria,Graz,0.24
+30/04/2015 17:48,Silver,7,Puerto Rico,115,17,Mr.##Michael##Suyama##Austria,Austria,Graz,0.21
+30/04/2015 19:09,Silver,27,New Hampshire,89,30,Ms.##Janet##Leverling##Germany,Germany,Aachen,0.07
+30/04/2015 19:21,VIP,15,New Hampshire,73,14,Dr.##Andrew##Fuller##Austria,Austria,Salzburg,0.05
+30/04/2015 20:10,VIP,9,New Hampshire,165,19,Ms.##Nancy##Davolio##USA,USA,Boise,0.04
+30/04/2015 20:33,Silver,4,Maine,148,29,Ms.##Nancy##Davolio##USA,USA,Boise,0.22
+01/05/2015 11:19,Reg,16,New Hampshire,128,29,Ms.##Nancy##Davolio##USA,USA,Boise,0.11
+01/05/2015 11:19,VIP,25,Rhode Island,85,30,Ms.##Nancy##Davolio##USA,USA,Boise,0.17
+01/05/2015 11:19,VIP,26,New Hampshire,103,29,Ms.##Nancy##Davolio##USA,USA,Boise,0.24
+01/05/2015 19:59,VIP,5,Maine,148,16,Ms.##Nancy##Davolio##USA,USA,Elgin,0.2
+01/05/2015 19:59,Reg,11,Massachusetts,94,20,Ms.##Nancy##Davolio##USA,USA,Elgin,0.17
+03/05/2015 10:44,VIP,2,Rhode Island,84,18,Mr.##Michael##Suyama##Venezuela,Venezuela,San Crist?bal,0.18
+03/05/2015 11:01,VIP,8,Maine,149,18,Mr.##Michael##Suyama##Venezuela,Venezuela,San Crist?bal,0.01
+03/05/2015 14:55,Reg,24,Maine,132,12,Mr.##Michael##Suyama##Venezuela,Venezuela,San Crist?bal,0.26
+04/05/2015 18:19,Silver,8,New Hampshire,133,19,Ms.##Nancy##Davolio##Germany,Germany,M?nchen,0.12
+05/05/2015 11:09,Silver,11,Maine,113,11,Ms.##Nancy##Davolio##Germany,Germany,M?nchen,0.22
+05/05/2015 15:08,Silver,12,Maine,153,15,Ms.##Nancy##Davolio##Germany,Germany,M?nchen,0.13
+06/05/2015 17:53,VIP,28,New Hampshire,94,14,Mr.##Steven##Buchanan##Portugal,Portugal,Lisboa,0.02
+07/05/2015 16:26,Silver,19,Maine,178,20,Mr.##Steven##Buchanan##Portugal,Portugal,Lisboa,0.12
+07/05/2015 16:26,Silver,3,Maine,127,22,Dr.##Andrew##Fuller##USA,USA,Boise,0.03
+07/05/2015 18:11,Reg,24,Massachusetts,96,11,Dr.##Andrew##Fuller##USA,USA,Boise,0.29
+08/05/2015 11:03,Silver,28,Maine,83,14,Ms.##Laura##Callahan##Denmark,Denmark,?rhus,0.19
+08/05/2015 11:03,VIP,6,New Hampshire,134,10,Ms.##Laura##Callahan##Denmark,Denmark,?rhus,0.1
+08/05/2015 17:45,Reg,4,Massachusetts,124,11,Ms.##Laura##Callahan##Denmark,Denmark,?rhus,0.04
+08/05/2015 17:45,Reg,15,Massachusetts,104,24,Ms.##Laura##Callahan##Denmark,Denmark,?rhus,0.15
+08/05/2015 18:34,Silver,28,New Hampshire,154,24,Ms.##Nancy##Davolio##UK,UK,London,0.16
+08/05/2015 20:01,Silver,15,Rhode Island,146,20,Ms.##Nancy##Davolio##UK,UK,London,0.17
+09/05/2015 9:06,Reg,14,Massachusetts,93,30,Ms.##Nancy##Davolio##UK,UK,London,0.06
+10/05/2015 18:34,Reg,25,New Hampshire,148,10,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.2
+10/05/2015 19:34,Reg,12,New Hampshire,69,20,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.18
+10/05/2015 20:04,VIP,20,New Hampshire,165,28,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.14
+11/05/2015 10:39,Reg,9,Puerto Rico,73,26,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.04
+11/05/2015 10:39,Silver,29,Puerto Rico,97,16,Ms.##Laura##Callahan##Austria,Austria,Graz,0.17
+11/05/2015 10:39,Reg,1,Massachusetts,110,18,Ms.##Laura##Callahan##Austria,Austria,Graz,0.3
+11/05/2015 15:01,Reg,3,Puerto Rico,165,24,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0
+11/05/2015 15:01,Reg,9,Massachusetts,122,15,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0.21
+11/05/2015 18:16,VIP,7,Massachusetts,193,19,Dr.##Andrew##Fuller##Italy,Italy,Bergamo,0.13
+11/05/2015 18:16,VIP,14,Massachusetts,108,19,Dr.##Andrew##Fuller##Italy,Italy,Bergamo,0.14
+11/05/2015 19:18,VIP,5,Puerto Rico,131,19,Dr.##Andrew##Fuller##Italy,Italy,Bergamo,0.24
+11/05/2015 19:18,Silver,4,Massachusetts,146,10,Ms.##Nancy##Davolio##Venezuela,Venezuela,I. de Margarita,0.05
+11/05/2015 19:18,Silver,8,Rhode Island,123,16,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.2
+12/05/2015 20:47,Reg,28,Massachusetts,120,23,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.04
+12/05/2015 20:47,Silver,25,Massachusetts,119,14,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.09
+12/05/2015 20:50,VIP,8,Maine,87,14,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.17
+13/05/2015 10:22,VIP,17,Maine,121,10,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.24
+13/05/2015 10:22,Reg,2,New Hampshire,114,21,Dr.##Andrew##Fuller##Germany,Germany,K?ln,0.01
+13/05/2015 11:49,Reg,26,Rhode Island,115,24,Dr.##Andrew##Fuller##Germany,Germany,K?ln,0.14
+14/05/2015 11:17,Silver,8,Maine,156,10,Dr.##Andrew##Fuller##Germany,Germany,K?ln,0.12
+15/05/2015 14:52,VIP,20,Massachusetts,103,17,Ms.##Laura##Callahan##France,France,Lille,0.09
+15/05/2015 14:52,VIP,17,Rhode Island,97,12,Ms.##Laura##Callahan##France,France,Lille,0.23
+17/05/2015 19:34,VIP,21,Maine,118,10,Ms.##Laura##Callahan##France,France,Lille,0.25
+19/05/2015 12:26,Reg,14,Maine,105,10,Ms.##Janet##Leverling##Argentina,Argentina,Buenos Aires,0.13
+19/05/2015 12:26,Reg,3,Massachusetts,126,11,Ms.##Janet##Leverling##Argentina,Argentina,Buenos Aires,0.32
+19/05/2015 15:38,Reg,19,Massachusetts,149,27,Ms.##Janet##Leverling##Canada,Canada,Tsawassen,0.14
+19/05/2015 15:38,VIP,16,New Hampshire,103,27,Ms.##Janet##Leverling##Canada,Canada,Tsawassen,0.01
+19/05/2015 15:58,Silver,29,Puerto Rico,143,30,Ms.##Anne##Dodsworth##Canada,Canada,Tsawassen,0.27
+20/05/2015 15:39,VIP,24,Massachusetts,142,29,Ms.##Anne##Dodsworth##Canada,Canada,Tsawassen,0.2
+20/05/2015 17:40,Silver,1,Maine,15,18,Ms.##Anne##Dodsworth##Canada,Canada,Tsawassen,0.11
+21/05/2015 10:50,Silver,2,Massachusetts,105,30,Ms.##Laura##Callahan##Finland,Finland,Oulu,0.21
+21/05/2015 10:52,VIP,22,New Hampshire,141,13,Ms.##Janet##Leverling##France,France,Toulouse,0.25
+21/05/2015 10:52,VIP,26,Maine,128,27,Ms.##Janet##Leverling##France,France,Toulouse,0.17
+21/05/2015 11:35,Reg,23,Puerto Rico,137,22,Ms.##Janet##Leverling##France,France,Toulouse,0.17
+21/05/2015 11:35,Silver,21,Puerto Rico,130,24,Dr.##Andrew##Fuller##Brazil,Brazil,Sao Paulo,0.2
+21/05/2015 11:35,Reg,9,New Hampshire,113,17,Dr.##Andrew##Fuller##Brazil,Brazil,Sao Paulo,0.3
+21/05/2015 12:27,VIP,12,Maine,100,25,Ms.##Janet##Leverling##USA,USA,Elgin,0.23
+21/05/2015 13:00,Reg,18,Massachusetts,134,17,Ms.##Janet##Leverling##USA,USA,Elgin,0.19
+21/05/2015 13:00,Silver,21,Puerto Rico,96,10,Ms.##Laura##Callahan##Finland,Finland,Oulu,0.09
+21/05/2015 13:07,Silver,15,Puerto Rico,160,15,Ms.##Laura##Callahan##Finland,Finland,Oulu,0.32
+22/05/2015 9:03,Silver,9,Massachusetts,148,29,Ms.##Laura##Callahan##Finland,Finland,Oulu,0.19
+22/05/2015 9:03,VIP,3,Puerto Rico,98,30,Mrs.##Margaret##Peacock##Denmark,Denmark,Kobenhavn,0.14
+24/05/2015 9:47,Silver,21,Massachusetts,175,14,Mrs.##Margaret##Peacock##Denmark,Denmark,Kobenhavn,0
+24/05/2015 9:47,Reg,18,Maine,99,20,Mrs.##Margaret##Peacock##Denmark,Denmark,Kobenhavn,0.04
+24/05/2015 12:58,VIP,17,Massachusetts,158,19,Mrs.##Margaret##Peacock##Denmark,Denmark,Kobenhavn,0.16
+24/05/2015 20:48,VIP,23,Maine,149,12,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.25
+24/05/2015 20:48,Silver,8,Maine,161,17,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.25
+24/05/2015 20:48,VIP,17,Massachusetts,152,27,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.01
+25/05/2015 12:34,Reg,29,Massachusetts,141,13,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.23
+25/05/2015 13:56,Reg,7,Maine,136,15,Mrs.##Margaret##Peacock##Switzerland,Switzerland,Gen?ve,0.1
+25/05/2015 13:56,Reg,16,New Hampshire,97,12,Mrs.##Margaret##Peacock##Switzerland,Switzerland,Gen?ve,0.1
+25/05/2015 13:56,Reg,28,Massachusetts,85,16,Ms.##Janet##Leverling##Brazil,Brazil,Resende,0.06
+25/05/2015 13:56,VIP,10,Puerto Rico,114,22,Ms.##Janet##Leverling##Brazil,Brazil,Resende,0.01
+25/05/2015 16:49,Reg,20,Massachusetts,93,19,Ms.##Janet##Leverling##Brazil,Brazil,Resende,0.01
+25/05/2015 16:49,Reg,26,Rhode Island,161,10,Ms.##Janet##Leverling##Brazil,Brazil,Resende,0.03
+25/05/2015 16:49,Reg,25,Maine,177,26,Ms.##Laura##Callahan##Brazil,Brazil,Rio de Janeiro,0.32
+25/05/2015 16:50,VIP,2,New Hampshire,135,26,Ms.##Laura##Callahan##Brazil,Brazil,Rio de Janeiro,0.02
+25/05/2015 16:50,VIP,1,Maine,127,21,Ms.##Laura##Callahan##Brazil,Brazil,Rio de Janeiro,0.12
+25/05/2015 16:50,Reg,20,Massachusetts,106,28,Ms.##Laura##Callahan##Brazil,Brazil,Rio de Janeiro,0.12
+25/05/2015 16:50,VIP,18,Rhode Island,94,20,Dr.##Andrew##Fuller##Italy,Italy,Torino,0.11
+25/05/2015 20:27,VIP,18,Maine,163,15,Mr.##Michael##Suyama##Brazil,Brazil,Campinas,0.3
+26/05/2015 11:40,Reg,8,Massachusetts,138,20,Mr.##Michael##Suyama##Brazil,Brazil,Campinas,0.24
+26/05/2015 11:40,Reg,29,Puerto Rico,155,10,Mr.##Robert##King##Canada,Canada,Montr?al,0.12
+26/05/2015 11:40,VIP,24,Massachusetts,145,16,Mr.##Robert##King##Canada,Canada,Montr?al,0.29
+26/05/2015 14:15,Silver,16,Massachusetts,74,20,Mr.##Robert##King##Canada,Canada,Montr?al,0.13
+26/05/2015 17:03,Reg,5,Massachusetts,136,20,Mr.##Michael##Suyama##France,France,Toulouse,0.1
+26/05/2015 20:48,VIP,12,Massachusetts,134,17,Mr.##Michael##Suyama##France,France,Toulouse,0.1
+26/05/2015 20:48,Silver,16,Maine,158,13,Mrs.##Margaret##Peacock##Spain,Spain,Barcelona,0.28
+27/05/2015 13:10,Silver,2,Massachusetts,10,5,Mrs.##Margaret##Peacock##Spain,Spain,Barcelona,0.12
+27/05/2015 13:10,Silver,22,Maine,87,11,Mrs.##Margaret##Peacock##Austria,Austria,Salzburg,0.13
+27/05/2015 13:10,VIP,6,Puerto Rico,102,13,Mr.##Robert##King##Italy,Italy,Reggio Emilia,0.23
+27/05/2015 13:22,VIP,21,Massachusetts,154,29,Ms.##Janet##Leverling##Ireland,Ireland,Cork,0.29
+27/05/2015 15:21,VIP,21,New Hampshire,150,14,Ms.##Janet##Leverling##Ireland,Ireland,Cork,0.24
+27/05/2015 15:21,Reg,29,New Hampshire,77,17,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0.19
+27/05/2015 17:00,Silver,22,New Hampshire,149,21,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0.1
+27/05/2015 17:00,VIP,21,Massachusetts,124,15,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0.18
+28/05/2015 9:17,VIP,13,New Hampshire,111,17,Mrs.##Margaret##Peacock##Austria,Austria,Graz,0.04
+28/05/2015 11:01,Reg,9,Massachusetts,110,30,Mrs.##Margaret##Peacock##Canada,Canada,Tsawassen,0.16
+28/05/2015 11:14,Reg,1,Puerto Rico,88,16,Mrs.##Margaret##Peacock##Canada,Canada,Tsawassen,0.01
+28/05/2015 11:14,Reg,20,Puerto Rico,105,10,Mrs.##Margaret##Peacock##Canada,Canada,Tsawassen,0.09
+28/05/2015 11:49,Reg,15,New Hampshire,101,17,Ms.##Janet##Leverling##USA,USA,Lander,0.14
+28/05/2015 13:52,Reg,26,Massachusetts,118,14,Ms.##Janet##Leverling##USA,USA,Lander,0.26
+28/05/2015 13:52,Reg,15,Massachusetts,181,19,Ms.##Janet##Leverling##Portugal,Portugal,Lisboa,0.24
+28/05/2015 14:32,VIP,9,Rhode Island,134,11,Ms.##Janet##Leverling##Sweden,Sweden,Br?cke,0.12
+28/05/2015 15:58,Silver,18,Massachusetts,143,24,Ms.##Janet##Leverling##Sweden,Sweden,Br?cke,0.08
+28/05/2015 18:21,VIP,5,Massachusetts,120,18,Ms.##Laura##Callahan##UK,UK,London,0.04
+28/05/2015 18:21,Silver,9,Maine,81,27,Ms.##Laura##Callahan##UK,UK,London,0.3
+28/05/2015 18:21,Reg,8,Massachusetts,110,27,Ms.##Laura##Callahan##UK,UK,London,0.29
+28/05/2015 18:52,Silver,29,New Hampshire,138,3,Ms.##Janet##Leverling##France,France,Strasbourg,0.33
+28/05/2015 20:24,Reg,4,Puerto Rico,87,23,Ms.##Janet##Leverling##France,France,Strasbourg,0.2
+28/05/2015 20:26,Silver,16,New Hampshire,167,12,Ms.##Janet##Leverling##France,France,Strasbourg,0.27
+29/05/2015 16:21,Reg,6,Massachusetts,118,21,Ms.##Janet##Leverling##France,France,Strasbourg,0.04
+29/05/2015 16:21,Silver,28,New Hampshire,151,10,Ms.##Laura##Callahan##Finland,Finland,Oulu,0.13
+29/05/2015 16:21,Silver,21,Massachusetts,63,12,Ms.##Janet##Leverling##Germany,Germany,M?nster,0
+29/05/2015 19:55,VIP,3,New Hampshire,110,21,Ms.##Janet##Leverling##Germany,Germany,M?nster,0.29
+30/05/2015 13:37,Silver,28,Maine,142,19,Ms.##Janet##Leverling##Germany,Germany,M?nster,0.06
+31/05/2015 9:17,Reg,6,Massachusetts,144,13,Mr.##Michael##Suyama##Canada,Canada,Montr?al,0.29
+31/05/2015 9:17,Silver,9,Massachusetts,159,29,Mr.##Michael##Suyama##Canada,Canada,Montr?al,0.31
+31/05/2015 9:17,Reg,15,Massachusetts,83,19,Mr.##Michael##Suyama##Canada,Canada,Montr?al,0.13
+31/05/2015 12:02,VIP,9,Puerto Rico,157,23,Mr.##Michael##Suyama##Canada,Canada,Montr?al,0.23
+31/05/2015 12:02,VIP,28,New Hampshire,129,24,Mrs.##Margaret##Peacock##USA,USA,Boise,0.05
+31/05/2015 13:22,Silver,28,Maine,76,28,Mrs.##Margaret##Peacock##USA,USA,Boise,0.1
+31/05/2015 14:34,Reg,11,Maine,144,25,Mrs.##Margaret##Peacock##USA,USA,Boise,0.16
+31/05/2015 14:34,Reg,11,Maine,131,27,Mrs.##Margaret##Peacock##USA,USA,Boise,0.23
+31/05/2015 15:09,VIP,10,Maine,172,29,Ms.##Janet##Leverling##USA,USA,Anchorage,0.21
+31/05/2015 15:09,Silver,12,Massachusetts,108,28,Ms.##Janet##Leverling##Austria,Austria,Graz,0.12
+31/05/2015 15:24,Reg,21,Maine,148,21,Ms.##Janet##Leverling##Austria,Austria,Graz,0.14
+31/05/2015 15:24,Silver,23,Massachusetts,92,11,Ms.##Janet##Leverling##Austria,Austria,Graz,0.18
+31/05/2015 15:24,VIP,13,Massachusetts,156,10,Ms.##Laura##Callahan##Italy,Italy,Reggio Emilia,0.3
+31/05/2015 18:02,VIP,14,Massachusetts,97,29,Ms.##Laura##Callahan##Italy,Italy,Reggio Emilia,0.21
+31/05/2015 18:02,Reg,28,Massachusetts,131,27,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.09
+31/05/2015 18:02,Silver,16,Puerto Rico,154,30,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.27
+01/06/2015 9:05,Reg,14,Massachusetts,129,15,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.09
+01/06/2015 9:05,Silver,3,Maine,134,10,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.18
+01/06/2015 13:59,VIP,22,Massachusetts,139,29,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.25
+01/06/2015 15:49,Reg,21,New Hampshire,120,24,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.01
+01/06/2015 15:49,Silver,28,New Hampshire,188,16,Mr.##Michael##Suyama##Germany,Germany,M?nster,0.14
+01/06/2015 19:30,Reg,18,Massachusetts,162,15,Mr.##Michael##Suyama##Germany,Germany,M?nster,0.04
+04/06/2015 19:16,Silver,7,New Hampshire,91,11,Mr.##Michael##Suyama##Germany,Germany,M?nster,0.17
+05/06/2015 17:52,Reg,24,Maine,152,25,Mr.##Michael##Suyama##Germany,Germany,M?nster,0.29
+05/06/2015 18:05,Silver,12,Massachusetts,152,17,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.26
+05/06/2015 18:05,Silver,3,Massachusetts,158,24,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.07
+07/06/2015 9:59,VIP,8,Massachusetts,166,27,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.29
+08/06/2015 10:28,VIP,9,Maine,172,16,Mrs.##Margaret##Peacock##Argentina,Argentina,Buenos Aires,0.03
+08/06/2015 18:33,Reg,24,Massachusetts,192,21,Mrs.##Margaret##Peacock##Argentina,Argentina,Buenos Aires,0.25
+09/06/2015 10:30,Silver,5,Maine,147,30,Ms.##Janet##Leverling##France,France,Strasbourg,0.3
+09/06/2015 16:21,VIP,8,Maine,123,19,Ms.##Janet##Leverling##France,France,Strasbourg,0.19
+10/06/2015 10:40,Silver,1,Maine,133,28,Ms.##Janet##Leverling##France,France,Strasbourg,0.33
+10/06/2015 16:39,VIP,8,Massachusetts,180,21,Ms.##Laura##Callahan##France,France,Lyon,0.02
+10/06/2015 17:17,Reg,1,Maine,83,15,Ms.##Laura##Callahan##France,France,Lyon,0.14
+10/06/2015 20:53,Silver,12,Massachusetts,81,25,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.25
+11/06/2015 10:18,VIP,28,Maine,191,28,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.04
+11/06/2015 15:25,VIP,6,Puerto Rico,126,26,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.24
+11/06/2015 17:39,Reg,28,Maine,128,19,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.14
+11/06/2015 17:39,Reg,11,Massachusetts,94,28,Ms.##Laura##Callahan##USA,USA,Boise,0.26
+11/06/2015 17:39,VIP,28,New Hampshire,100,30,Ms.##Laura##Callahan##USA,USA,Boise,0.06
+12/06/2015 16:51,Silver,19,Massachusetts,106,11,Ms.##Nancy##Davolio##UK,UK,Colchester,0.08
+12/06/2015 16:51,Silver,18,New Hampshire,151,27,Ms.##Nancy##Davolio##UK,UK,Colchester,0.11
+12/06/2015 20:54,VIP,13,Massachusetts,181,23,Mrs.##Margaret##Peacock##France,France,Toulouse,0.03
+14/06/2015 19:26,Reg,23,Rhode Island,125,25,Mrs.##Margaret##Peacock##France,France,Toulouse,0.04
+14/06/2015 20:02,Silver,13,Rhode Island,90,18,Mrs.##Margaret##Peacock##France,France,Toulouse,0.27
+15/06/2015 15:06,Silver,11,Maine,147,23,Ms.##Laura##Callahan##Finland,Finland,Oulu,0.02
+16/06/2015 11:33,VIP,1,New Hampshire,136,28,Ms.##Laura##Callahan##Finland,Finland,Oulu,0.29
+16/06/2015 15:33,Silver,28,Massachusetts,155,16,Ms.##Laura##Callahan##Finland,Finland,Oulu,0.01
+16/06/2015 16:04,Reg,3,Massachusetts,188,10,Ms.##Laura##Callahan##Finland,Finland,Oulu,0.05
+17/06/2015 10:57,VIP,22,Maine,118,24,Ms.##Laura##Callahan##Germany,Germany,Brandenburg,0.29
+17/06/2015 10:57,VIP,1,Puerto Rico,150,22,Ms.##Laura##Callahan##Germany,Germany,Brandenburg,0.21
+17/06/2015 13:49,Silver,19,New Hampshire,165,17,Dr.##Andrew##Fuller##Germany,Germany,Brandenburg,0.01
+17/06/2015 13:49,VIP,3,Massachusetts,121,15,Mr.##Robert##King##Belgium,Belgium,Charleroi,0.09
+17/06/2015 14:04,Reg,3,New Hampshire,142,23,Mr.##Robert##King##Belgium,Belgium,Charleroi,0.04
+17/06/2015 17:44,Silver,27,Puerto Rico,10,6,Mr.##Robert##King##Belgium,Belgium,Charleroi,0.06
+17/06/2015 17:44,Silver,27,Maine,20,4,Mr.##Robert##King##Belgium,Belgium,Charleroi,0.28
+18/06/2015 9:23,Reg,5,Massachusetts,149,22,Mr.##Robert##King##Belgium,Belgium,Charleroi,0.27
+18/06/2015 9:23,Silver,1,Puerto Rico,87,22,Mrs.##Margaret##Peacock##France,France,Lyon,0.32
+18/06/2015 9:43,Reg,9,New Hampshire,154,5,Mrs.##Margaret##Peacock##France,France,Lyon,0.13
+18/06/2015 9:43,VIP,1,Massachusetts,92,11,Mrs.##Margaret##Peacock##France,France,Lyon,0.3
+18/06/2015 9:43,Reg,11,Maine,149,11,Ms.##Laura##Callahan##Sweden,Sweden,Br?cke,0.32
+18/06/2015 20:13,Silver,17,Massachusetts,144,24,Ms.##Laura##Callahan##Sweden,Sweden,Br?cke,0.27
+18/06/2015 20:13,Reg,8,Maine,131,14,Ms.##Nancy##Davolio##Venezuela,Venezuela,Barquisimeto,0.05
+19/06/2015 9:20,Silver,19,Puerto Rico,113,19,Ms.##Nancy##Davolio##Venezuela,Venezuela,Barquisimeto,0.05
+19/06/2015 9:20,Reg,1,Massachusetts,130,21,Ms.##Nancy##Davolio##Venezuela,Venezuela,Barquisimeto,0.29
+21/06/2015 9:07,Reg,15,Maine,85,14,Dr.##Andrew##Fuller##UK,UK,London,0.19
+21/06/2015 9:07,Silver,9,New Hampshire,123,10,Dr.##Andrew##Fuller##UK,UK,London,0.2
+21/06/2015 14:44,VIP,2,Maine,110,24,Mr.##Steven##Buchanan##Belgium,Belgium,Charleroi,0.13
+21/06/2015 14:44,Reg,28,New Hampshire,123,26,Mr.##Steven##Buchanan##Belgium,Belgium,Charleroi,0.25
+22/06/2015 10:39,Reg,24,Maine,163,17,Mrs.##Margaret##Peacock##Portugal,Portugal,Lisboa,0.21
+22/06/2015 14:55,VIP,18,New Hampshire,112,12,Mrs.##Margaret##Peacock##Portugal,Portugal,Lisboa,0.29
+23/06/2015 9:27,Silver,1,New Hampshire,123,18,Mrs.##Margaret##Peacock##Portugal,Portugal,Lisboa,0
+23/06/2015 9:27,VIP,22,New Hampshire,85,18,Mrs.##Margaret##Peacock##Portugal,Portugal,Lisboa,0.22
+23/06/2015 18:52,VIP,9,Rhode Island,114,30,Ms.##Nancy##Davolio##Denmark,Denmark,?rhus,0.18
+23/06/2015 18:52,Silver,10,New Hampshire,138,30,Ms.##Nancy##Davolio##Denmark,Denmark,?rhus,0.06
+24/06/2015 12:05,Silver,12,Massachusetts,101,14,Ms.##Nancy##Davolio##Denmark,Denmark,?rhus,0.07
+24/06/2015 12:30,Reg,23,Massachusetts,124,22,Ms.##Nancy##Davolio##Denmark,Denmark,?rhus,0.16
+24/06/2015 13:15,Silver,25,Puerto Rico,98,19,Ms.##Nancy##Davolio##Denmark,Denmark,?rhus,0.07
+24/06/2015 16:23,VIP,18,New Hampshire,106,24,Mrs.##Margaret##Peacock##Brazil,Brazil,Sao Paulo,0.05
+24/06/2015 18:12,Reg,26,Maine,90,26,Mrs.##Margaret##Peacock##Brazil,Brazil,Sao Paulo,0.11
+25/06/2015 9:14,Reg,18,Maine,150,20,Ms.##Laura##Callahan##Italy,Italy,Bergamo,0.22
+25/06/2015 9:39,Reg,24,Massachusetts,144,10,Ms.##Laura##Callahan##Italy,Italy,Bergamo,0.14
+25/06/2015 9:43,VIP,19,Maine,173,20,Ms.##Janet##Leverling##Germany,Germany,Brandenburg,0.17
+25/06/2015 9:43,VIP,23,Maine,128,28,Ms.##Janet##Leverling##Germany,Germany,Brandenburg,0.02
+25/06/2015 12:16,Silver,23,Maine,114,24,Ms.##Nancy##Davolio##USA,USA,Seattle,0.32
+26/06/2015 16:47,VIP,16,Rhode Island,172,29,Ms.##Nancy##Davolio##USA,USA,Seattle,0.05
+26/06/2015 16:47,VIP,10,Rhode Island,142,19,Ms.##Nancy##Davolio##USA,USA,Seattle,0.19
+26/06/2015 16:47,VIP,20,Rhode Island,119,20,Mrs.##Margaret##Peacock##France,France,Marseille,0.31
+27/06/2015 9:16,Reg,19,Maine,106,17,Mrs.##Margaret##Peacock##France,France,Marseille,0.21
+27/06/2015 18:17,VIP,18,New Hampshire,187,28,Mrs.##Margaret##Peacock##France,France,Marseille,0.22
+27/06/2015 18:17,Reg,16,Massachusetts,142,28,Dr.##Andrew##Fuller##UK,UK,London,0.01
+28/06/2015 10:28,VIP,20,Massachusetts,121,22,Dr.##Andrew##Fuller##UK,UK,London,0.26
+28/06/2015 13:25,Reg,24,Massachusetts,166,11,Ms.##Laura##Callahan##UK,UK,London,0
+28/06/2015 18:30,Silver,17,New Hampshire,101,29,Ms.##Laura##Callahan##UK,UK,London,0.05
+28/06/2015 18:30,Silver,18,Massachusetts,140,23,Ms.##Nancy##Davolio##UK,UK,Cowes,0.19
+28/06/2015 18:30,VIP,23,Puerto Rico,175,18,Ms.##Nancy##Davolio##UK,UK,Cowes,0.32
+28/06/2015 18:30,Silver,1,Massachusetts,122,11,Mr.##Steven##Buchanan##Mexico,Mexico,M?xico D.F.,0.15
+28/06/2015 19:19,VIP,8,Rhode Island,134,29,Mr.##Steven##Buchanan##Mexico,Mexico,M?xico D.F.,0.31
+28/06/2015 19:19,Reg,26,Massachusetts,175,29,Mr.##Steven##Buchanan##Mexico,Mexico,M?xico D.F.,0.23
+28/06/2015 20:12,VIP,12,Massachusetts,176,19,Mr.##Steven##Buchanan##Mexico,Mexico,M?xico D.F.,0.13
+28/06/2015 20:12,VIP,13,Rhode Island,154,17,Ms.##Anne##Dodsworth##Belgium,Belgium,Charleroi,0.18
+28/06/2015 20:12,Reg,18,Massachusetts,132,29,Ms.##Anne##Dodsworth##Belgium,Belgium,Charleroi,0.03
+29/06/2015 9:09,Silver,13,New Hampshire,85,3,Ms.##Anne##Dodsworth##Belgium,Belgium,Charleroi,0.19
+29/06/2015 9:09,Reg,9,Rhode Island,131,14,Ms.##Laura##Callahan##Venezuela,Venezuela,San Crist?bal,0.3
+29/06/2015 9:09,Silver,11,Maine,140,19,Ms.##Laura##Callahan##Venezuela,Venezuela,San Crist?bal,0.3
+29/06/2015 9:09,VIP,14,Massachusetts,132,10,Mr.##Steven##Buchanan##Portugal,Portugal,Lisboa,0.24
+29/06/2015 9:28,Silver,20,New Hampshire,95,19,Mr.##Steven##Buchanan##Portugal,Portugal,Lisboa,0.02
+29/06/2015 9:28,Reg,28,Massachusetts,112,29,Mr.##Steven##Buchanan##Portugal,Portugal,Lisboa,0.2
+29/06/2015 11:54,VIP,22,Massachusetts,125,21,Dr.##Andrew##Fuller##France,France,Lyon,0.11
+29/06/2015 14:03,VIP,9,Massachusetts,102,25,Ms.##Janet##Leverling##USA,USA,Albuquerque,0.06
+29/06/2015 14:03,Silver,13,Maine,173,28,Ms.##Janet##Leverling##USA,USA,Albuquerque,0.14
+29/06/2015 15:03,Silver,10,Maine,158,17,Ms.##Janet##Leverling##USA,USA,Albuquerque,0.19
+29/06/2015 15:03,Silver,1,Rhode Island,160,25,Ms.##Janet##Leverling##USA,USA,Albuquerque,0.19
+29/06/2015 15:03,VIP,24,Massachusetts,157,18,Mr.##Michael##Suyama##France,France,Lille,0.16
+30/06/2015 12:13,VIP,21,Maine,181,23,Mr.##Michael##Suyama##France,France,Lille,0.03
+30/06/2015 12:13,Reg,28,Maine,184,28,Ms.##Laura##Callahan##Brazil,Brazil,Rio de Janeiro,0.01
+30/06/2015 12:53,Reg,29,New Hampshire,127,30,Ms.##Laura##Callahan##Brazil,Brazil,Rio de Janeiro,0.32
+30/06/2015 13:32,Silver,18,Maine,177,14,Ms.##Nancy##Davolio##USA,USA,Walla Walla,0.03
+30/06/2015 15:16,Silver,13,New Hampshire,138,12,Mr.##Robert##King##USA,USA,Seattle,0.07
+30/06/2015 15:27,Silver,12,Maine,175,3,Mr.##Robert##King##USA,USA,Seattle,0.01
+30/06/2015 15:27,VIP,8,New Hampshire,189,20,Ms.##Janet##Leverling##UK,UK,London,0.06
+30/06/2015 15:27,VIP,13,New Hampshire,136,29,Ms.##Janet##Leverling##UK,UK,London,0.16
+30/06/2015 17:52,Reg,23,Maine,95,22,Ms.##Janet##Leverling##UK,UK,London,0.3
+30/06/2015 18:00,VIP,8,Maine,160,11,Mrs.##Margaret##Peacock##Venezuela,Venezuela,I. de Margarita,0.32
+30/06/2015 18:00,Silver,20,New Hampshire,78,13,Mrs.##Margaret##Peacock##Venezuela,Venezuela,I. de Margarita,0.13
+30/06/2015 20:47,Reg,9,Massachusetts,84,14,Mrs.##Margaret##Peacock##Venezuela,Venezuela,I. de Margarita,0.26
+02/07/2015 11:07,Silver,26,Maine,164,29,Mrs.##Margaret##Peacock##Venezuela,Venezuela,I. de Margarita,0.26
+02/07/2015 11:07,Reg,6,New Hampshire,95,27,Ms.##Nancy##Davolio##Venezuela,Venezuela,San Crist?bal,0.05
+02/07/2015 11:07,Silver,29,Maine,176,28,Ms.##Nancy##Davolio##Venezuela,Venezuela,San Crist?bal,0.26
+02/07/2015 11:07,Reg,5,Massachusetts,88,24,Ms.##Nancy##Davolio##Venezuela,Venezuela,San Crist?bal,0.27
+03/07/2015 16:59,Silver,10,Massachusetts,174,30,Dr.##Andrew##Fuller##Brazil,Brazil,Sao Paulo,0.18
+03/07/2015 16:59,VIP,8,Maine,166,13,Dr.##Andrew##Fuller##Brazil,Brazil,Sao Paulo,0.32
+05/07/2015 7:36,Reg,22,Maine,151,22,Dr.##Andrew##Fuller##Brazil,Brazil,Sao Paulo,0.23
+05/07/2015 8:40,Reg,16,Massachusetts,83,27,Ms.##Laura##Callahan##Germany,Germany,M?nchen,0.17
+05/07/2015 8:40,Silver,17,Puerto Rico,147,24,Ms.##Laura##Callahan##Germany,Germany,M?nchen,0.16
+05/07/2015 8:40,Reg,12,Massachusetts,110,19,Mr.##Michael##Suyama##Austria,Austria,Salzburg,0.24
+05/07/2015 19:15,Reg,7,Massachusetts,107,28,Mr.##Michael##Suyama##Austria,Austria,Salzburg,0.22
+05/07/2015 19:15,Reg,17,New Hampshire,124,25,Mr.##Robert##King##Venezuela,Venezuela,San Crist?bal,0.1
+06/07/2015 4:23,Silver,4,New Hampshire,131,29,Mr.##Robert##King##Venezuela,Venezuela,San Crist?bal,0.17
+06/07/2015 5:22,Reg,9,Maine,187,24,Mr.##Robert##King##Venezuela,Venezuela,San Crist?bal,0.17
+06/07/2015 13:39,Silver,27,Massachusetts,160,20,Ms.##Laura##Callahan##Portugal,Portugal,Lisboa,0.17
+06/07/2015 13:39,Reg,4,New Hampshire,124,27,Ms.##Laura##Callahan##Portugal,Portugal,Lisboa,0.22
+07/07/2015 0:24,Silver,16,Massachusetts,85,18,Ms.##Janet##Leverling##Canada,Canada,Tsawassen,0.3
+07/07/2015 0:24,Silver,9,Maine,78,21,Ms.##Janet##Leverling##Canada,Canada,Tsawassen,0.05
+07/07/2015 11:57,VIP,6,Maine,127,30,Mrs.##Margaret##Peacock##France,France,Toulouse,0.19
+07/07/2015 11:57,Silver,25,Maine,182,10,Mrs.##Margaret##Peacock##France,France,Toulouse,0.33
+07/07/2015 11:57,VIP,24,Maine,150,20,Mrs.##Margaret##Peacock##France,France,Toulouse,0.2
+08/07/2015 8:40,Silver,25,Massachusetts,80,22,Mrs.##Margaret##Peacock##Brazil,Brazil,Sao Paulo,0.04
+09/07/2015 13:03,Silver,20,Maine,123,13,Ms.##Janet##Leverling##Canada,Canada,Vancouver,0.26
+09/07/2015 16:18,Reg,22,Maine,81,13,Ms.##Janet##Leverling##Canada,Canada,Vancouver,0.15
+09/07/2015 16:18,VIP,8,Maine,113,22,Ms.##Janet##Leverling##Canada,Canada,Vancouver,0.33
+09/07/2015 16:18,VIP,8,Maine,106,24,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.16
+10/07/2015 0:43,Silver,29,Maine,120,20,Mr.##Robert##King##Germany,Germany,Frankfurt a.M.,0.33
+10/07/2015 17:30,Silver,5,New Hampshire,162,25,Mr.##Robert##King##Germany,Germany,Frankfurt a.M.,0.07
+10/07/2015 17:30,Reg,21,Massachusetts,85,12,Mr.##Robert##King##Germany,Germany,Frankfurt a.M.,0.3
+11/07/2015 9:01,Reg,7,Massachusetts,131,23,Ms.##Laura##Callahan##Venezuela,Venezuela,San Crist?bal,0.31
+12/07/2015 3:41,Reg,11,Massachusetts,156,15,Ms.##Laura##Callahan##Venezuela,Venezuela,San Crist?bal,0.28
+12/07/2015 3:41,VIP,27,New Hampshire,92,19,Ms.##Laura##Callahan##Venezuela,Venezuela,San Crist?bal,0.29
+12/07/2015 11:23,VIP,17,Maine,139,25,Mrs.##Margaret##Peacock##Venezuela,Venezuela,Barquisimeto,0.18
+12/07/2015 11:23,Silver,24,New Hampshire,155,21,Mrs.##Margaret##Peacock##Venezuela,Venezuela,Barquisimeto,0.11
+13/07/2015 7:47,Silver,17,Puerto Rico,20,8,Mr.##Michael##Suyama##France,France,Toulouse,0.31
+13/07/2015 8:17,Silver,24,Massachusetts,104,11,Mr.##Michael##Suyama##France,France,Toulouse,0.29
+13/07/2015 13:49,Silver,24,New Hampshire,112,27,Ms.##Anne##Dodsworth##Germany,Germany,Mannheim,0.07
+14/07/2015 5:19,Reg,15,Maine,82,28,Dr.##Andrew##Fuller##Mexico,Mexico,M?xico D.F.,0.29
+14/07/2015 5:19,Reg,19,Massachusetts,174,25,Dr.##Andrew##Fuller##Mexico,Mexico,M?xico D.F.,0.02
+14/07/2015 6:23,Reg,21,Massachusetts,161,15,Dr.##Andrew##Fuller##Mexico,Mexico,M?xico D.F.,0.01
+14/07/2015 9:37,Reg,15,Puerto Rico,119,28,Mr.##Michael##Suyama##Ireland,Ireland,Cork,0.05
+14/07/2015 9:37,Silver,16,Massachusetts,99,29,Mr.##Michael##Suyama##Ireland,Ireland,Cork,0
+14/07/2015 9:37,Reg,20,Massachusetts,158,24,Mrs.##Margaret##Peacock##USA,USA,Seattle,0.19
+14/07/2015 15:26,Reg,29,Massachusetts,130,12,Mrs.##Margaret##Peacock##USA,USA,Seattle,0.33
+14/07/2015 15:26,Reg,21,Puerto Rico,194,10,Mrs.##Margaret##Peacock##USA,USA,Seattle,0.07
+14/07/2015 15:26,VIP,14,Puerto Rico,156,15,Mrs.##Margaret##Peacock##USA,USA,Seattle,0.33
+14/07/2015 15:26,VIP,26,New Hampshire,72,20,Ms.##Janet##Leverling##Canada,Canada,Montr?al,0.03
+15/07/2015 6:09,Silver,20,Maine,155,13,Ms.##Anne##Dodsworth##Germany,Germany,Brandenburg,0.25
+15/07/2015 8:23,Silver,13,Massachusetts,124,26,Ms.##Anne##Dodsworth##Germany,Germany,Brandenburg,0.03
+15/07/2015 12:52,Reg,12,Puerto Rico,96,28,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.33
+15/07/2015 12:52,Silver,15,New Hampshire,156,22,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.3
+15/07/2015 12:52,Reg,3,Rhode Island,79,19,Ms.##Nancy##Davolio##Germany,Germany,K?ln,0.22
+15/07/2015 17:24,Reg,15,New Hampshire,170,13,Ms.##Nancy##Davolio##Germany,Germany,K?ln,0.01
+16/07/2015 15:02,Silver,9,New Hampshire,88,11,Mrs.##Margaret##Peacock##Germany,Germany,Mannheim,0.26
+18/07/2015 3:30,Silver,18,Massachusetts,150,25,Mr.##Michael##Suyama##USA,USA,Boise,0.32
+18/07/2015 14:03,Silver,25,Massachusetts,114,17,Mr.##Michael##Suyama##USA,USA,Boise,0.18
+18/07/2015 14:03,VIP,11,Massachusetts,170,29,Mrs.##Margaret##Peacock##France,France,Marseille,0.18
+19/07/2015 15:39,Reg,16,Maine,175,20,Mrs.##Margaret##Peacock##France,France,Marseille,0.2
+19/07/2015 15:39,Silver,18,Massachusetts,154,13,Mrs.##Margaret##Peacock##France,France,Marseille,0.01
+19/07/2015 16:35,Silver,6,Maine,172,27,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.28
+19/07/2015 17:20,VIP,1,Maine,77,17,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.25
+19/07/2015 17:20,Reg,14,Massachusetts,120,14,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.3
+20/07/2015 0:16,Reg,20,Maine,120,22,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.2
+20/07/2015 0:16,VIP,4,Massachusetts,186,24,Mr.##Robert##King##Germany,Germany,Stuttgart,0.16
+21/07/2015 3:54,Silver,20,Maine,167,20,Mr.##Robert##King##Germany,Germany,Stuttgart,0.07
+21/07/2015 5:54,VIP,2,Massachusetts,102,24,Mr.##Robert##King##Germany,Germany,Stuttgart,0.28
+24/07/2015 6:45,Reg,27,Puerto Rico,93,20,Ms.##Janet##Leverling##Austria,Austria,Graz,0.32
+25/07/2015 4:43,Silver,9,Maine,93,25,Ms.##Janet##Leverling##Austria,Austria,Graz,0.01
+25/07/2015 4:43,Silver,1,New Hampshire,183,23,Ms.##Janet##Leverling##Austria,Austria,Graz,0.27
+25/07/2015 4:43,Reg,14,New Hampshire,181,24,Ms.##Janet##Leverling##Austria,Austria,Graz,0.3
+25/07/2015 6:09,VIP,15,Massachusetts,122,28,Ms.##Janet##Leverling##Austria,Austria,Graz,0.26
+27/07/2015 5:47,Reg,21,Maine,136,19,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.15
+27/07/2015 5:47,Silver,16,Maine,158,28,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.05
+27/07/2015 5:47,VIP,20,New Hampshire,98,26,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.26
+28/07/2015 4:21,VIP,20,Maine,138,19,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.16
+28/07/2015 4:21,VIP,13,Maine,180,25,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.16
+28/07/2015 4:21,VIP,2,Massachusetts,146,24,Dr.##Andrew##Fuller##Ireland,Ireland,Cork,0.22
+28/07/2015 7:51,Reg,26,Massachusetts,115,18,Dr.##Andrew##Fuller##Ireland,Ireland,Cork,0.22
+28/07/2015 7:51,Reg,12,New Hampshire,90,22,Dr.##Andrew##Fuller##Ireland,Ireland,Cork,0.3
+28/07/2015 13:07,Reg,1,Puerto Rico,150,24,Ms.##Janet##Leverling##UK,UK,London,0.16
+29/07/2015 0:01,Silver,7,Puerto Rico,171,30,Ms.##Janet##Leverling##UK,UK,London,0.09
+29/07/2015 0:01,VIP,4,New Hampshire,151,13,Ms.##Janet##Leverling##UK,UK,London,0.2
+31/07/2015 5:12,Silver,17,Maine,117,30,Mrs.##Margaret##Peacock##Mexico,Mexico,M?xico D.F.,0.19
+31/07/2015 5:12,Reg,28,Massachusetts,152,22,Mrs.##Margaret##Peacock##Mexico,Mexico,M?xico D.F.,0.07
+31/07/2015 17:54,Reg,8,Puerto Rico,173,21,Mrs.##Margaret##Peacock##Mexico,Mexico,M?xico D.F.,0.3
+31/07/2015 19:08,VIP,2,Maine,177,21,Mr.##Michael##Suyama##Switzerland,Switzerland,Bern,0.13
+01/08/2015 4:07,Reg,3,New Hampshire,124,28,Mr.##Michael##Suyama##Switzerland,Switzerland,Bern,0.21
+01/08/2015 8:23,VIP,24,Puerto Rico,84,13,Mr.##Michael##Suyama##Switzerland,Switzerland,Bern,0.02
+01/08/2015 14:28,VIP,3,Puerto Rico,135,21,Mr.##Robert##King##Norway,Norway,Stavern,0.09
+01/08/2015 14:28,VIP,28,Maine,99,11,Mr.##Robert##King##Norway,Norway,Stavern,0.26
+02/08/2015 2:46,VIP,4,Puerto Rico,131,28,Ms.##Laura##Callahan##Argentina,Argentina,Buenos Aires,0.02
+02/08/2015 2:46,Reg,28,Massachusetts,129,14,Ms.##Laura##Callahan##Argentina,Argentina,Buenos Aires,0.27
+02/08/2015 2:46,Silver,27,New Hampshire,146,18,Ms.##Laura##Callahan##Argentina,Argentina,Buenos Aires,0.32
+02/08/2015 16:54,VIP,13,Massachusetts,149,30,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0.29
+03/08/2015 2:05,VIP,13,Massachusetts,149,14,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0.19
+03/08/2015 2:05,Silver,29,Massachusetts,112,16,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0.31
+03/08/2015 2:05,VIP,7,Maine,136,20,Mrs.##Margaret##Peacock##Germany,Germany,Frankfurt a.M.,0.1
+03/08/2015 2:05,Silver,28,Maine,127,25,Mr.##Robert##King##UK,UK,London,0.13
+03/08/2015 2:05,Reg,1,Massachusetts,147,21,Mr.##Robert##King##UK,UK,London,0.11
+03/08/2015 8:18,VIP,27,Massachusetts,168,10,Mr.##Robert##King##UK,UK,London,0.01
+03/08/2015 13:01,VIP,26,Massachusetts,135,15,Mr.##Robert##King##UK,UK,London,0.11
+03/08/2015 13:01,Silver,5,Massachusetts,117,17,Ms.##Nancy##Davolio##Sweden,Sweden,Lule?,0.14
+03/08/2015 13:01,VIP,5,Maine,78,22,Ms.##Nancy##Davolio##Sweden,Sweden,Lule?,0.13
+03/08/2015 17:20,VIP,1,Maine,159,22,Ms.##Nancy##Davolio##Sweden,Sweden,Lule?,0.05
+05/08/2015 1:31,VIP,28,Puerto Rico,9,6,Ms.##Nancy##Davolio##Sweden,Sweden,Lule?,0.12
+05/08/2015 1:31,Reg,2,Massachusetts,139,20,Ms.##Nancy##Davolio##France,France,Marseille,0.27
+05/08/2015 1:31,VIP,29,Maine,95,18,Ms.##Nancy##Davolio##France,France,Marseille,0.26
+05/08/2015 11:52,Silver,28,Rhode Island,117,20,Mrs.##Margaret##Peacock##Finland,Finland,Oulu,0.27
+05/08/2015 11:52,Silver,16,New Hampshire,99,15,Mrs.##Margaret##Peacock##Finland,Finland,Oulu,0.32
+06/08/2015 3:42,VIP,10,New Hampshire,174,26,Mrs.##Margaret##Peacock##Finland,Finland,Oulu,0.29
+06/08/2015 3:42,Reg,8,Massachusetts,137,16,Mr.##Robert##King##Germany,Germany,Cunewalde,0.16
+06/08/2015 5:38,Silver,9,Massachusetts,129,27,Mr.##Robert##King##Germany,Germany,Cunewalde,0.16
+06/08/2015 13:47,VIP,3,Maine,175,28,Mr.##Michael##Suyama##USA,USA,Eugene,0.08
+08/08/2015 1:45,VIP,10,Massachusetts,160,25,Mr.##Michael##Suyama##USA,USA,Eugene,0.13
+08/08/2015 4:48,VIP,17,Massachusetts,132,21,Mr.##Michael##Suyama##USA,USA,Eugene,0.31
+08/08/2015 8:16,Reg,13,Maine,114,17,Mr.##Steven##Buchanan##Belgium,Belgium,Bruxelles,0.27
+08/08/2015 17:58,VIP,6,Massachusetts,112,14,Mr.##Steven##Buchanan##Belgium,Belgium,Bruxelles,0.29
+09/08/2015 5:32,Silver,5,Massachusetts,137,11,Mr.##Steven##Buchanan##Belgium,Belgium,Bruxelles,0.32
+09/08/2015 17:21,Silver,14,Puerto Rico,143,15,Ms.##Janet##Leverling##Austria,Austria,Salzburg,0.02
+09/08/2015 17:21,VIP,18,Puerto Rico,170,24,Ms.##Janet##Leverling##Austria,Austria,Salzburg,0.27
+09/08/2015 17:21,Reg,11,Massachusetts,186,14,Ms.##Janet##Leverling##Austria,Austria,Salzburg,0.2
+10/08/2015 13:46,Silver,13,Massachusetts,139,10,Ms.##Janet##Leverling##Austria,Austria,Salzburg,0.03
+11/08/2015 6:15,VIP,13,Massachusetts,136,29,Mr.##Robert##King##Argentina,Argentina,Buenos Aires,0.08
+11/08/2015 17:36,Reg,10,Massachusetts,132,26,Mr.##Robert##King##UK,UK,London,0.06
+11/08/2015 19:16,Silver,3,Maine,122,24,Mr.##Robert##King##UK,UK,London,0.17
+12/08/2015 10:43,VIP,13,Maine,150,25,Ms.##Laura##Callahan##Sweden,Sweden,Br?cke,0.16
+13/08/2015 0:49,VIP,5,Puerto Rico,130,15,Ms.##Laura##Callahan##Sweden,Sweden,Br?cke,0.26
+13/08/2015 0:49,Silver,22,New Hampshire,154,11,Ms.##Laura##Callahan##Sweden,Sweden,Br?cke,0.14
+13/08/2015 13:18,Reg,1,New Hampshire,114,30,Ms.##Laura##Callahan##Germany,Germany,Frankfurt a.M.,0.25
+13/08/2015 13:18,Reg,23,New Hampshire,103,26,Ms.##Laura##Callahan##Germany,Germany,Frankfurt a.M.,0.29
+13/08/2015 13:18,Silver,5,Puerto Rico,63,13,Ms.##Laura##Callahan##Germany,Germany,Frankfurt a.M.,0.29
+13/08/2015 15:48,VIP,16,Maine,96,21,Mrs.##Margaret##Peacock##Mexico,Mexico,M?xico D.F.,0.24
+13/08/2015 19:38,Reg,11,Maine,98,10,Mrs.##Margaret##Peacock##Mexico,Mexico,M?xico D.F.,0.09
+14/08/2015 0:46,Reg,11,Puerto Rico,90,28,Mrs.##Margaret##Peacock##Mexico,Mexico,M?xico D.F.,0.2
+14/08/2015 2:37,Silver,4,Puerto Rico,105,11,Mrs.##Margaret##Peacock##Mexico,Mexico,M?xico D.F.,0.04
+14/08/2015 2:37,Reg,25,Rhode Island,118,27,Ms.##Janet##Leverling##Germany,Germany,Frankfurt a.M.,0.05
+14/08/2015 18:39,VIP,22,Massachusetts,85,21,Ms.##Janet##Leverling##Germany,Germany,Frankfurt a.M.,0.18
+15/08/2015 4:56,VIP,15,Massachusetts,139,12,Ms.##Janet##Leverling##Germany,Germany,Frankfurt a.M.,0.3
+15/08/2015 4:56,Reg,24,Massachusetts,117,12,Ms.##Janet##Leverling##Germany,Germany,Frankfurt a.M.,0.15
+16/08/2015 4:25,Reg,12,Massachusetts,112,13,Ms.##Nancy##Davolio##Switzerland,Switzerland,Gen?ve,0.32
+16/08/2015 4:46,Silver,22,Maine,130,12,Ms.##Nancy##Davolio##Switzerland,Switzerland,Gen?ve,0.06
+16/08/2015 4:46,VIP,15,Maine,125,24,Ms.##Nancy##Davolio##Switzerland,Switzerland,Gen?ve,0.31
+16/08/2015 10:56,Silver,19,Massachusetts,67,10,Ms.##Nancy##Davolio##Switzerland,Switzerland,Gen?ve,0.09
+16/08/2015 14:40,Silver,26,Puerto Rico,115,20,Ms.##Nancy##Davolio##Switzerland,Switzerland,Gen?ve,0.19
+17/08/2015 10:13,Silver,25,Maine,140,15,Ms.##Anne##Dodsworth##UK,UK,London,0.18
+17/08/2015 10:13,VIP,25,New Hampshire,84,12,Ms.##Anne##Dodsworth##UK,UK,London,0.01
+17/08/2015 13:28,VIP,16,Massachusetts,91,24,Mr.##Michael##Suyama##UK,UK,London,0.01
+18/08/2015 2:24,Reg,23,New Hampshire,110,30,Mr.##Michael##Suyama##UK,UK,London,0.3
+18/08/2015 2:24,Reg,25,Maine,138,27,Mr.##Michael##Suyama##UK,UK,London,0.23
+18/08/2015 14:21,Silver,12,Maine,127,21,Mr.##Michael##Suyama##UK,UK,London,0.32
+18/08/2015 14:21,Silver,7,Massachusetts,99,23,Ms.##Janet##Leverling##Germany,Germany,Cunewalde,0.26
+18/08/2015 14:21,VIP,17,Massachusetts,89,25,Ms.##Janet##Leverling##Germany,Germany,Cunewalde,0.02
+19/08/2015 8:26,VIP,16,Rhode Island,118,14,Ms.##Janet##Leverling##Germany,Germany,Cunewalde,0.11
+19/08/2015 8:26,Reg,25,Massachusetts,148,20,Ms.##Janet##Leverling##Germany,Germany,Cunewalde,0.3
+19/08/2015 10:36,VIP,21,Massachusetts,79,10,Dr.##Andrew##Fuller##Brazil,Brazil,Rio de Janeiro,0.07
+20/08/2015 12:52,Silver,11,Massachusetts,140,19,Dr.##Andrew##Fuller##Brazil,Brazil,Rio de Janeiro,0.2
+20/08/2015 17:12,Silver,3,Massachusetts,130,16,Dr.##Andrew##Fuller##Brazil,Brazil,Rio de Janeiro,0.01
+20/08/2015 17:12,VIP,29,Maine,76,22,Dr.##Andrew##Fuller##Brazil,Brazil,Rio de Janeiro,0.32
+20/08/2015 17:12,Reg,11,Massachusetts,90,14,Ms.##Nancy##Davolio##Germany,Germany,Brandenburg,0.12
+20/08/2015 17:12,Silver,28,Puerto Rico,136,21,Ms.##Nancy##Davolio##Germany,Germany,Brandenburg,0.33
+20/08/2015 17:12,Silver,22,Massachusetts,105,15,Ms.##Laura##Callahan##Venezuela,Venezuela,Barquisimeto,0.12
+21/08/2015 14:18,Reg,25,New Hampshire,117,22,Ms.##Laura##Callahan##Venezuela,Venezuela,Barquisimeto,0.26
+21/08/2015 14:18,Reg,11,Massachusetts,97,15,Mrs.##Margaret##Peacock##USA,USA,Portland,0.25
+21/08/2015 14:18,Silver,28,Maine,126,19,Mrs.##Margaret##Peacock##USA,USA,Portland,0.16
+21/08/2015 17:56,Silver,6,Massachusetts,108,29,Ms.##Laura##Callahan##USA,USA,Walla Walla,0.23
+21/08/2015 17:56,Reg,25,Massachusetts,158,20,Ms.##Nancy##Davolio##France,France,Lyon,0.06
+22/08/2015 11:09,VIP,22,Rhode Island,153,12,Ms.##Nancy##Davolio##France,France,Lyon,0.07
+23/08/2015 2:18,Reg,28,Maine,20,9,Ms.##Nancy##Davolio##France,France,Lyon,0.25
+24/08/2015 4:16,Reg,11,Maine,147,26,Ms.##Janet##Leverling##UK,UK,London,0.18
+24/08/2015 6:51,Reg,19,Maine,111,25,Ms.##Janet##Leverling##UK,UK,London,0.26
+25/08/2015 17:10,Silver,28,Massachusetts,15,10,Ms.##Janet##Leverling##Germany,Germany,M?nster,0.24
+25/08/2015 17:10,VIP,7,Massachusetts,82,17,Ms.##Janet##Leverling##Germany,Germany,M?nster,0.22
+26/08/2015 5:48,VIP,1,New Hampshire,94,20,Mr.##Steven##Buchanan##Germany,Germany,Cunewalde,0.1
+26/08/2015 19:31,VIP,21,Puerto Rico,148,13,Mr.##Steven##Buchanan##Germany,Germany,Cunewalde,0.17
+27/08/2015 13:58,Reg,13,Massachusetts,118,25,Mr.##Steven##Buchanan##Germany,Germany,Cunewalde,0.08
+27/08/2015 13:58,Silver,25,Massachusetts,116,26,Mr.##Robert##King##Spain,Spain,Sevilla,0.33
+28/08/2015 13:14,VIP,20,Massachusetts,163,10,Mr.##Robert##King##Spain,Spain,Sevilla,0.15
+28/08/2015 13:14,Silver,3,Massachusetts,146,24,Mr.##Robert##King##Spain,Spain,Sevilla,0.1
+28/08/2015 19:21,Silver,10,Maine,141,28,Mr.##Robert##King##Spain,Spain,Sevilla,0.24
+29/08/2015 12:49,VIP,24,Massachusetts,93,12,Mrs.##Margaret##Peacock##Portugal,Portugal,Lisboa,0.01
+29/08/2015 12:49,Silver,9,Maine,159,15,Mrs.##Margaret##Peacock##Portugal,Portugal,Lisboa,0.04
+29/08/2015 14:53,Reg,2,Massachusetts,107,29,Mrs.##Margaret##Peacock##Portugal,Portugal,Lisboa,0.18
+29/08/2015 14:53,VIP,14,Massachusetts,105,15,Dr.##Andrew##Fuller##Venezuela,Venezuela,San Crist?bal,0.01
+29/08/2015 16:06,VIP,5,Puerto Rico,101,19,Dr.##Andrew##Fuller##Venezuela,Venezuela,San Crist?bal,0.26
+29/08/2015 16:06,VIP,17,Massachusetts,134,13,Dr.##Andrew##Fuller##Finland,Finland,Oulu,0.01
+30/08/2015 2:51,VIP,21,Massachusetts,130,29,Dr.##Andrew##Fuller##Finland,Finland,Oulu,0.01
+30/08/2015 2:51,VIP,9,Massachusetts,91,11,Dr.##Andrew##Fuller##Finland,Finland,Oulu,0.01
+30/08/2015 2:51,Reg,10,New Hampshire,155,18,Dr.##Andrew##Fuller##Finland,Finland,Oulu,0.11
+30/08/2015 2:51,VIP,24,New Hampshire,163,16,Dr.##Andrew##Fuller##Finland,Finland,Oulu,0.01
+30/08/2015 11:59,VIP,4,Massachusetts,132,12,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.27
+30/08/2015 11:59,Reg,17,New Hampshire,172,27,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.32
+31/08/2015 18:26,VIP,11,Maine,167,12,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.19
+02/09/2015 13:51,Silver,24,Massachusetts,112,14,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.07
+02/09/2015 13:51,VIP,28,Massachusetts,110,26,Mr.##Michael##Suyama##USA,USA,Boise,0.26
+02/09/2015 13:51,VIP,24,Massachusetts,129,22,Mr.##Michael##Suyama##USA,USA,Boise,0.03
+03/09/2015 9:36,Silver,28,Maine,139,27,Mr.##Michael##Suyama##USA,USA,Boise,0.32
+03/09/2015 9:36,Silver,28,Maine,118,13,Mr.##Michael##Suyama##USA,USA,Boise,0.06
+04/09/2015 6:28,Reg,17,Puerto Rico,89,11,Mr.##Michael##Suyama##USA,USA,Boise,0.08
+04/09/2015 6:51,VIP,21,Maine,148,21,Dr.##Andrew##Fuller##Denmark,Denmark,Kobenhavn,0.26
+04/09/2015 6:51,Reg,19,Massachusetts,172,23,Ms.##Anne##Dodsworth##Germany,Germany,Frankfurt a.M.,0.13
+04/09/2015 6:51,Reg,3,Maine,100,17,Ms.##Anne##Dodsworth##Germany,Germany,Frankfurt a.M.,0.14
+04/09/2015 8:56,Reg,7,Maine,132,14,Ms.##Nancy##Davolio##UK,UK,Colchester,0.18
+04/09/2015 18:33,Silver,5,Massachusetts,65,11,Ms.##Nancy##Davolio##UK,UK,Colchester,0.04
+05/09/2015 0:56,Silver,9,Massachusetts,141,10,Ms.##Nancy##Davolio##UK,UK,Colchester,0.05
+05/09/2015 2:34,VIP,9,Massachusetts,169,12,Ms.##Nancy##Davolio##UK,UK,Colchester,0.29
+05/09/2015 2:34,Silver,12,Massachusetts,166,30,Ms.##Nancy##Davolio##UK,UK,Colchester,0.15
+06/09/2015 4:14,Silver,6,New Hampshire,135,24,Mr.##Michael##Suyama##France,France,Strasbourg,0.31
+06/09/2015 10:25,Reg,12,Massachusetts,132,16,Mr.##Michael##Suyama##France,France,Strasbourg,0.33
+06/09/2015 10:25,VIP,12,Massachusetts,177,18,Ms.##Laura##Callahan##Germany,Germany,M?nchen,0.11
+07/09/2015 2:21,Reg,2,Rhode Island,94,17,Ms.##Laura##Callahan##Germany,Germany,M?nchen,0.01
+08/09/2015 3:14,Silver,22,Puerto Rico,106,29,Dr.##Andrew##Fuller##Sweden,Sweden,Br?cke,0.16
+08/09/2015 15:48,Reg,28,Maine,91,11,Dr.##Andrew##Fuller##Sweden,Sweden,Br?cke,0.07
+09/09/2015 1:27,VIP,1,New Hampshire,134,21,Ms.##Nancy##Davolio##Italy,Italy,Reggio Emilia,0.04
+09/09/2015 2:01,Reg,10,Massachusetts,129,10,Ms.##Nancy##Davolio##Italy,Italy,Reggio Emilia,0.26
+09/09/2015 9:47,Reg,27,Massachusetts,171,27,Dr.##Andrew##Fuller##Brazil,Brazil,Rio de Janeiro,0.26
+09/09/2015 9:47,Reg,21,Puerto Rico,127,21,Dr.##Andrew##Fuller##Brazil,Brazil,Rio de Janeiro,0.21
+09/09/2015 9:47,Reg,16,New Hampshire,103,30,Mrs.##Margaret##Peacock##USA,USA,Albuquerque,0.03
+09/09/2015 12:46,Reg,1,Massachusetts,144,14,Mrs.##Margaret##Peacock##USA,USA,Albuquerque,0.22
+09/09/2015 16:22,Reg,24,Massachusetts,105,17,Mrs.##Margaret##Peacock##USA,USA,Albuquerque,0.28
+11/09/2015 15:52,VIP,24,Massachusetts,121,14,Ms.##Laura##Callahan##Canada,Canada,Montr?al,0.2
+11/09/2015 15:52,Reg,2,New Hampshire,132,25,Ms.##Laura##Callahan##Canada,Canada,Montr?al,0.25
+11/09/2015 17:00,Reg,9,Maine,174,30,Ms.##Anne##Dodsworth##France,France,Strasbourg,0.23
+11/09/2015 18:06,Reg,10,New Hampshire,111,15,Ms.##Anne##Dodsworth##France,France,Strasbourg,0.09
+11/09/2015 18:06,Reg,26,Massachusetts,167,11,Ms.##Anne##Dodsworth##France,France,Strasbourg,0.11
+11/09/2015 18:06,Reg,17,Maine,69,19,Ms.##Nancy##Davolio##Ireland,Ireland,Cork,0.09
+12/09/2015 17:22,VIP,20,New Hampshire,126,16,Ms.##Nancy##Davolio##Ireland,Ireland,Cork,0.17
+12/09/2015 17:22,Reg,27,Maine,139,26,Ms.##Nancy##Davolio##Ireland,Ireland,Cork,0.02
+13/09/2015 2:57,Reg,22,Massachusetts,137,22,Ms.##Janet##Leverling##Spain,Spain,Barcelona,0.16
+13/09/2015 2:57,Reg,7,Maine,119,30,Mr.##Steven##Buchanan##USA,USA,Albuquerque,0.12
+13/09/2015 2:57,VIP,20,Massachusetts,91,11,Mr.##Steven##Buchanan##USA,USA,Albuquerque,0.23
+13/09/2015 2:57,Reg,20,New Hampshire,130,17,Ms.##Janet##Leverling##Canada,Canada,Montr?al,0.18
+13/09/2015 10:08,Silver,22,Maine,113,30,Ms.##Janet##Leverling##Canada,Canada,Montr?al,0.11
+13/09/2015 10:08,Reg,29,Massachusetts,169,30,Ms.##Laura##Callahan##Austria,Austria,Graz,0.05
+13/09/2015 12:11,Silver,1,Massachusetts,87,11,Ms.##Laura##Callahan##Austria,Austria,Graz,0.26
+13/09/2015 13:34,Silver,6,Maine,110,30,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.03
+14/09/2015 3:28,Silver,4,New Hampshire,105,15,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.28
+14/09/2015 6:24,Silver,27,Massachusetts,79,18,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.31
+14/09/2015 6:24,Reg,11,New Hampshire,130,10,Ms.##Janet##Leverling##Sweden,Sweden,Lule?,0.24
+14/09/2015 6:24,Reg,6,New Hampshire,104,16,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.02
+14/09/2015 8:40,Silver,11,Maine,151,27,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.18
+14/09/2015 8:40,Reg,2,Maine,109,21,Mr.##Robert##King##Mexico,Mexico,M?xico D.F.,0.16
+14/09/2015 8:40,VIP,24,Massachusetts,157,10,Mrs.##Margaret##Peacock##USA,USA,Kirkland,0.21
+14/09/2015 11:23,Reg,10,New Hampshire,118,25,Mrs.##Margaret##Peacock##USA,USA,Kirkland,0.25
+14/09/2015 18:11,Silver,3,Maine,81,24,Mrs.##Margaret##Peacock##USA,USA,Kirkland,0.09
+14/09/2015 18:44,Silver,24,Maine,118,16,Mrs.##Margaret##Peacock##USA,USA,Kirkland,0.11
+15/09/2015 15:57,Reg,1,Massachusetts,112,15,Mr.##Steven##Buchanan##Germany,Germany,Leipzig,0.04
+15/09/2015 15:57,Reg,27,Rhode Island,91,18,Mr.##Steven##Buchanan##Germany,Germany,Leipzig,0.28
+16/09/2015 18:16,Reg,28,Puerto Rico,127,27,Mr.##Steven##Buchanan##Germany,Germany,Leipzig,0.02
+17/09/2015 0:41,Silver,23,Massachusetts,80,10,Mr.##Steven##Buchanan##Germany,Germany,Leipzig,0.26
+17/09/2015 0:41,Reg,18,Maine,165,30,Ms.##Janet##Leverling##Mexico,Mexico,M?xico D.F.,0.18
+18/09/2015 9:45,VIP,16,Massachusetts,113,30,Ms.##Janet##Leverling##Mexico,Mexico,M?xico D.F.,0.26
+18/09/2015 16:43,VIP,13,Maine,112,29,Ms.##Janet##Leverling##Mexico,Mexico,M?xico D.F.,0.21
+19/09/2015 8:00,Reg,1,Rhode Island,99,23,Ms.##Anne##Dodsworth##USA,USA,Kirkland,0.03
+19/09/2015 8:00,Reg,17,Maine,115,19,Ms.##Anne##Dodsworth##USA,USA,Kirkland,0.22
+21/09/2015 11:32,Silver,18,Puerto Rico,82,10,Ms.##Anne##Dodsworth##USA,USA,Kirkland,0.16
+21/09/2015 16:04,VIP,9,Maine,165,13,Mrs.##Margaret##Peacock##UK,UK,London,0.12
+22/09/2015 9:15,VIP,5,Massachusetts,156,30,Mrs.##Margaret##Peacock##UK,UK,London,0.14
+23/09/2015 5:41,VIP,26,Rhode Island,115,18,Ms.##Nancy##Davolio##USA,USA,San Francisco,0.16
+23/09/2015 5:41,Reg,2,Puerto Rico,94,20,Ms.##Nancy##Davolio##USA,USA,San Francisco,0.02
+23/09/2015 16:12,Silver,10,Massachusetts,179,19,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.14
+23/09/2015 17:03,Silver,19,Maine,120,16,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.17
+23/09/2015 17:03,Reg,11,Massachusetts,189,19,Mrs.##Margaret##Peacock##Germany,Germany,K?ln,0.16
+23/09/2015 18:58,Reg,1,Maine,100,18,Ms.##Janet##Leverling##Brazil,Brazil,Sao Paulo,0.02
+23/09/2015 18:58,Silver,11,Puerto Rico,110,18,Ms.##Janet##Leverling##Germany,Germany,Mannheim,0.01
+24/09/2015 13:43,Silver,1,Puerto Rico,135,15,Ms.##Janet##Leverling##Germany,Germany,Mannheim,0.09
+25/09/2015 3:44,Reg,21,Maine,114,17,Dr.##Andrew##Fuller##Finland,Finland,Oulu,0
+25/09/2015 13:08,VIP,20,Maine,108,26,Dr.##Andrew##Fuller##Finland,Finland,Oulu,0.25
+25/09/2015 13:08,Reg,17,Maine,153,13,Dr.##Andrew##Fuller##Finland,Finland,Oulu,0.05
+25/09/2015 13:08,VIP,27,Massachusetts,135,22,Mrs.##Margaret##Peacock##France,France,Strasbourg,0.19
+26/09/2015 18:01,Silver,9,Massachusetts,96,13,Mr.##Robert##King##Brazil,Brazil,Resende,0.1
+26/09/2015 18:01,Reg,28,Maine,134,24,Ms.##Anne##Dodsworth##Italy,Italy,Reggio Emilia,0.13
+26/09/2015 18:01,Silver,16,Massachusetts,90,13,Ms.##Nancy##Davolio##Brazil,Brazil,Rio de Janeiro,0.1
+27/09/2015 19:06,Silver,1,Massachusetts,106,15,Ms.##Nancy##Davolio##Brazil,Brazil,Rio de Janeiro,0.19
+28/09/2015 5:34,VIP,4,Puerto Rico,129,15,Ms.##Nancy##Davolio##Brazil,Brazil,Rio de Janeiro,0.32
+28/09/2015 15:37,VIP,15,Massachusetts,171,30,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.18
+28/09/2015 15:37,Reg,24,Massachusetts,122,20,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.06
+28/09/2015 15:37,VIP,11,Massachusetts,105,28,Ms.##Laura##Callahan##USA,USA,Eugene,0.31
+29/09/2015 17:47,Reg,25,Maine,93,19,Mrs.##Margaret##Peacock##Canada,Canada,Montr?al,0.32
+29/09/2015 17:47,Silver,27,Massachusetts,131,11,Mrs.##Margaret##Peacock##Canada,Canada,Montr?al,0.27
+29/09/2015 17:47,Reg,16,Maine,99,21,Ms.##Nancy##Davolio##Denmark,Denmark,?rhus,0.12
+30/09/2015 17:29,Silver,24,Massachusetts,119,10,Ms.##Nancy##Davolio##Denmark,Denmark,?rhus,0.22
+02/10/2015 1:34,VIP,5,Massachusetts,155,19,Ms.##Nancy##Davolio##Denmark,Denmark,?rhus,0.29
+02/10/2015 1:34,Reg,25,Massachusetts,100,12,Ms.##Janet##Leverling##Germany,Germany,Frankfurt a.M.,0.31
+02/10/2015 17:44,VIP,14,New Hampshire,152,22,Ms.##Janet##Leverling##Germany,Germany,Frankfurt a.M.,0.31
+02/10/2015 19:50,Reg,17,New Hampshire,148,15,Mr.##Robert##King##Germany,Germany,Frankfurt a.M.,0.32
+03/10/2015 11:27,Silver,22,Maine,65,19,Mr.##Robert##King##Germany,Germany,Frankfurt a.M.,0.14
+03/10/2015 18:30,VIP,21,Massachusetts,130,26,Mr.##Robert##King##Germany,Germany,Frankfurt a.M.,0.33
+03/10/2015 18:30,VIP,24,Maine,103,11,Ms.##Janet##Leverling##USA,USA,Anchorage,0.04
+03/10/2015 18:30,VIP,18,Massachusetts,163,23,Ms.##Janet##Leverling##USA,USA,Anchorage,0.16
+03/10/2015 18:30,Reg,28,Rhode Island,161,19,Dr.##Andrew##Fuller##Austria,Austria,Graz,0.28
+04/10/2015 10:14,Reg,5,Massachusetts,121,24,Dr.##Andrew##Fuller##Austria,Austria,Graz,0.23
+04/10/2015 10:14,Reg,14,Massachusetts,93,16,Dr.##Andrew##Fuller##Austria,Austria,Graz,0.07
+05/10/2015 2:11,Reg,19,New Hampshire,140,24,Ms.##Laura##Callahan##USA,USA,Seattle,0.28
+05/10/2015 12:38,Reg,5,Massachusetts,129,27,Ms.##Laura##Callahan##USA,USA,Seattle,0.08
+05/10/2015 12:38,Silver,15,Maine,165,10,Ms.##Laura##Callahan##USA,USA,Seattle,0.12
+06/10/2015 12:18,Reg,9,Puerto Rico,121,11,Mr.##Robert##King##Austria,Austria,Salzburg,0.15
+06/10/2015 12:37,Reg,7,Maine,77,12,Mr.##Robert##King##Austria,Austria,Salzburg,0.2
+06/10/2015 12:37,Reg,13,New Hampshire,122,22,Mr.##Robert##King##Austria,Austria,Salzburg,0.02
+06/10/2015 12:55,Reg,3,Maine,127,10,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.29
+07/10/2015 16:40,VIP,8,Massachusetts,149,20,Ms.##Nancy##Davolio##USA,USA,Albuquerque,0.08
+07/10/2015 16:40,Silver,22,Maine,155,14,Mr.##Michael##Suyama##UK,UK,London,0.01
+08/10/2015 16:16,VIP,4,Puerto Rico,116,20,Mrs.##Margaret##Peacock##USA,USA,Elgin,0.1
+10/10/2015 10:58,Silver,16,Maine,81,16,Mrs.##Margaret##Peacock##USA,USA,Elgin,0.1
+10/10/2015 10:58,Silver,28,Massachusetts,116,30,Mr.##Robert##King##Venezuela,Venezuela,San Crist?bal,0.31
+11/10/2015 7:22,VIP,17,Massachusetts,145,20,Mr.##Robert##King##Venezuela,Venezuela,San Crist?bal,0.07
+11/10/2015 7:22,Silver,25,Maine,96,10,Ms.##Laura##Callahan##Denmark,Denmark,?rhus,0.07
+11/10/2015 9:18,Silver,28,Maine,144,16,Ms.##Laura##Callahan##USA,USA,Boise,0.1
+11/10/2015 10:50,VIP,29,Maine,155,26,Ms.##Laura##Callahan##USA,USA,Boise,0.23
+12/10/2015 0:13,Reg,8,Massachusetts,116,13,Ms.##Nancy##Davolio##Portugal,Portugal,Lisboa,0.28
+12/10/2015 7:45,Reg,9,Rhode Island,93,15,Ms.##Nancy##Davolio##Portugal,Portugal,Lisboa,0.03
+12/10/2015 7:45,VIP,4,Maine,184,23,Ms.##Nancy##Davolio##Canada,Canada,Montr?al,0.23
+12/10/2015 8:50,Reg,26,Puerto Rico,195,16,Ms.##Nancy##Davolio##Canada,Canada,Montr?al,0.02
+12/10/2015 10:19,Silver,21,Massachusetts,134,15,Ms.##Nancy##Davolio##Canada,Canada,Montr?al,0.31
+14/10/2015 4:36,VIP,9,New Hampshire,176,16,Ms.##Nancy##Davolio##Canada,Canada,Montr?al,0.14
+14/10/2015 4:36,Silver,4,Rhode Island,102,15,Mrs.##Margaret##Peacock##Brazil,Brazil,Sao Paulo,0.1
+14/10/2015 9:45,Silver,25,Massachusetts,142,16,Mrs.##Margaret##Peacock##Brazil,Brazil,Sao Paulo,0.04
+14/10/2015 9:45,VIP,19,Maine,154,25,Mrs.##Margaret##Peacock##Brazil,Brazil,Sao Paulo,0.32
+14/10/2015 10:25,VIP,8,Maine,100,19,Mr.##Steven##Buchanan##USA,USA,Boise,0.1
+14/10/2015 10:25,Silver,14,Maine,149,28,Mr.##Steven##Buchanan##USA,USA,Boise,0.26
+14/10/2015 10:25,VIP,12,Rhode Island,86,18,Mr.##Steven##Buchanan##USA,USA,Boise,0.21
+15/10/2015 6:21,Silver,2,New Hampshire,154,22,Mr.##Steven##Buchanan##USA,USA,Boise,0.14
+15/10/2015 6:21,Silver,25,Rhode Island,178,27,Mr.##Steven##Buchanan##USA,USA,Boise,0.18
+15/10/2015 6:21,Silver,4,Massachusetts,126,10,Mrs.##Margaret##Peacock##Germany,Germany,M?nster,0.33
+15/10/2015 6:21,Silver,27,Massachusetts,176,12,Mr.##Robert##King##France,France,Nantes,0.02
+15/10/2015 11:08,VIP,7,Maine,108,22,Mr.##Robert##King##France,France,Nantes,0.29
+15/10/2015 11:08,Reg,25,New Hampshire,187,30,Mr.##Robert##King##France,France,Nantes,0.14
+15/10/2015 11:08,Silver,7,Massachusetts,96,16,Ms.##Laura##Callahan##France,France,Toulouse,0.28
+15/10/2015 11:08,Silver,4,Rhode Island,134,23,Mr.##Michael##Suyama##Poland,Poland,Warszawa,0.02
+15/10/2015 13:44,Reg,7,Maine,77,13,Mr.##Michael##Suyama##Poland,Poland,Warszawa,0.1
+15/10/2015 14:42,Reg,20,Massachusetts,62,29,Mr.##Michael##Suyama##Poland,Poland,Warszawa,0.26
+15/10/2015 17:57,Reg,5,Massachusetts,146,10,Ms.##Nancy##Davolio##USA,USA,Boise,0.01
+16/10/2015 11:49,Silver,10,Massachusetts,132,29,Ms.##Nancy##Davolio##USA,USA,Boise,0.11
+16/10/2015 11:49,VIP,22,Maine,152,28,Ms.##Nancy##Davolio##USA,USA,Boise,0.18
+16/10/2015 11:49,Reg,28,Massachusetts,118,21,Ms.##Nancy##Davolio##USA,USA,Boise,0.09
+17/10/2015 10:18,Reg,20,Rhode Island,140,27,Ms.##Nancy##Davolio##USA,USA,Boise,0.02
+17/10/2015 11:13,Reg,4,Puerto Rico,156,22,Mrs.##Margaret##Peacock##Venezuela,Venezuela,San Crist?bal,0.03
+17/10/2015 11:13,VIP,8,Maine,124,29,Mrs.##Margaret##Peacock##Venezuela,Venezuela,San Crist?bal,0.08
+17/10/2015 17:39,Silver,27,New Hampshire,117,28,Ms.##Laura##Callahan##Germany,Germany,Mannheim,0.04
+17/10/2015 17:39,Silver,16,Massachusetts,122,22,Ms.##Laura##Callahan##Germany,Germany,Mannheim,0.08
+18/10/2015 5:03,Silver,6,Maine,162,3,Ms.##Laura##Callahan##Germany,Germany,Mannheim,0.3
+18/10/2015 5:03,VIP,7,New Hampshire,159,16,Dr.##Andrew##Fuller##Finland,Finland,Helsinki,0.12
+18/10/2015 8:25,Reg,2,Massachusetts,118,30,Ms.##Nancy##Davolio##USA,USA,Eugene,0.08
+18/10/2015 16:30,Reg,26,Massachusetts,112,18,Ms.##Nancy##Davolio##USA,USA,Eugene,0.14
+18/10/2015 16:31,Reg,26,Maine,135,22,Ms.##Nancy##Davolio##USA,USA,Eugene,0.18
+20/10/2015 9:05,Reg,19,Massachusetts,87,13,Ms.##Nancy##Davolio##USA,USA,Eugene,0.23
+22/10/2015 8:58,Reg,2,Maine,121,11,Mrs.##Margaret##Peacock##USA,USA,Eugene,0.18
+22/10/2015 8:58,Silver,7,New Hampshire,178,27,Ms.##Nancy##Davolio##Canada,Canada,Montr?al,0.06
+22/10/2015 10:38,VIP,26,Maine,122,11,Ms.##Nancy##Davolio##Canada,Canada,Montr?al,0.28
+23/10/2015 2:29,Silver,28,Maine,124,17,Ms.##Nancy##Davolio##Canada,Canada,Montr?al,0.19
+23/10/2015 5:47,VIP,13,New Hampshire,114,23,Ms.##Janet##Leverling##Canada,Canada,Montr?al,0.1
+23/10/2015 5:47,Reg,5,New Hampshire,65,22,Ms.##Janet##Leverling##Canada,Canada,Montr?al,0.02
+23/10/2015 9:08,Reg,3,Massachusetts,157,24,Dr.##Andrew##Fuller##Canada,Canada,Vancouver,0.02
+23/10/2015 9:08,Reg,9,New Hampshire,121,26,Dr.##Andrew##Fuller##Canada,Canada,Vancouver,0.1
+23/10/2015 19:08,VIP,13,Maine,137,17,Mrs.##Margaret##Peacock##UK,UK,Cowes,0.03
+23/10/2015 19:08,VIP,11,Massachusetts,106,10,Mrs.##Margaret##Peacock##UK,UK,Cowes,0.27
+23/10/2015 19:08,VIP,12,Rhode Island,118,26,Mrs.##Margaret##Peacock##UK,UK,Cowes,0.18
+23/10/2015 19:08,Reg,4,New Hampshire,120,23,Mrs.##Margaret##Peacock##UK,UK,Cowes,0.23
+25/10/2015 0:47,Reg,27,Maine,94,10,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.26
+25/10/2015 0:47,VIP,27,Massachusetts,146,18,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.25
+25/10/2015 0:47,Silver,9,Massachusetts,129,16,Ms.##Laura##Callahan##Germany,Germany,M?nchen,0.01
+25/10/2015 7:19,VIP,17,Maine,69,26,Ms.##Laura##Callahan##Germany,Germany,M?nchen,0.25
+25/10/2015 15:27,Reg,23,New Hampshire,110,27,Ms.##Laura##Callahan##Germany,Germany,M?nchen,0.05
+26/10/2015 1:50,Reg,19,Maine,121,16,Ms.##Laura##Callahan##Germany,Germany,M?nchen,0.16
+28/10/2015 4:49,Reg,10,Massachusetts,147,17,Ms.##Laura##Callahan##Germany,Germany,M?nchen,0.31
+28/10/2015 4:49,Reg,20,Puerto Rico,119,30,Mrs.##Margaret##Peacock##USA,USA,Butte,0.17
+28/10/2015 17:14,Reg,29,Massachusetts,90,26,Mrs.##Margaret##Peacock##USA,USA,Butte,0.08
+28/10/2015 17:14,Reg,20,Maine,119,15,Mrs.##Margaret##Peacock##USA,USA,Butte,0.26
+28/10/2015 17:14,Silver,27,Maine,131,17,Ms.##Janet##Leverling##Mexico,Mexico,M?xico D.F.,0.27
+29/10/2015 1:50,VIP,15,New Hampshire,145,15,Ms.##Janet##Leverling##Mexico,Mexico,M?xico D.F.,0.02
+29/10/2015 1:50,Reg,16,New Hampshire,135,29,Ms.##Janet##Leverling##Mexico,Mexico,M?xico D.F.,0.01
+29/10/2015 3:14,VIP,2,Puerto Rico,174,27,Ms.##Nancy##Davolio##Sweden,Sweden,Lule?,0.07
+29/10/2015 14:43,Silver,24,Maine,135,22,Ms.##Nancy##Davolio##Sweden,Sweden,Lule?,0.3
+29/10/2015 14:43,VIP,21,Massachusetts,111,26,Ms.##Nancy##Davolio##Sweden,Sweden,Lule?,0.24
+30/10/2015 6:06,Reg,7,Puerto Rico,73,12,Ms.##Laura##Callahan##USA,USA,Boise,0.13
+30/10/2015 6:06,Reg,17,Maine,116,14,Ms.##Laura##Callahan##USA,USA,Boise,0.22
+30/10/2015 6:06,Silver,16,New Hampshire,112,25,Mrs.##Margaret##Peacock##France,France,Strasbourg,0.28
+03/11/2015 2:05,Reg,5,New Hampshire,83,25,Mrs.##Margaret##Peacock##Spain,Spain,Sevilla,0.1
+03/11/2015 2:05,Silver,25,Rhode Island,73,16,Mrs.##Margaret##Peacock##Spain,Spain,Sevilla,0.02
+04/11/2015 19:52,Reg,13,Massachusetts,149,23,Ms.##Nancy##Davolio##Germany,Germany,Brandenburg,0.03
+04/11/2015 19:52,VIP,23,Maine,97,15,Ms.##Nancy##Davolio##Germany,Germany,Brandenburg,0.28
+05/11/2015 0:56,Silver,28,New Hampshire,123,21,Ms.##Laura##Callahan##France,France,Toulouse,0.24
+05/11/2015 0:56,Silver,25,New Hampshire,162,20,Ms.##Laura##Callahan##Germany,Germany,Stuttgart,0.04
+05/11/2015 7:00,VIP,27,Maine,116,14,Ms.##Laura##Callahan##Germany,Germany,Stuttgart,0.27
+05/11/2015 7:00,Silver,14,Maine,110,13,Mr.##Robert##King##Austria,Austria,Graz,0.27
+06/11/2015 17:28,Silver,19,Massachusetts,136,17,Mr.##Robert##King##Austria,Austria,Graz,0.14
+06/11/2015 18:26,VIP,4,New Hampshire,143,21,Mr.##Robert##King##Austria,Austria,Graz,0.01
+06/11/2015 18:26,Reg,14,New Hampshire,99,13,Mr.##Robert##King##Austria,Austria,Graz,0.33
+08/11/2015 5:14,VIP,1,Massachusetts,166,12,Mrs.##Margaret##Peacock##France,France,Lille,0.04
+08/11/2015 7:38,VIP,28,Puerto Rico,147,22,Mrs.##Margaret##Peacock##France,France,Lille,0.03
+09/11/2015 1:23,Silver,11,New Hampshire,149,21,Mrs.##Margaret##Peacock##France,France,Lille,0.01
+09/11/2015 1:23,VIP,19,Massachusetts,112,18,Mrs.##Margaret##Peacock##France,France,Lille,0.01
+09/11/2015 4:38,Silver,28,Maine,101,21,Ms.##Laura##Callahan##Italy,Italy,Bergamo,0.03
+09/11/2015 15:05,VIP,13,New Hampshire,93,11,Ms.##Laura##Callahan##Italy,Italy,Bergamo,0.06
+09/11/2015 18:53,VIP,3,Puerto Rico,121,19,Ms.##Laura##Callahan##Italy,Italy,Bergamo,0.15
+10/11/2015 3:58,VIP,23,Rhode Island,155,21,Mrs.##Margaret##Peacock##Finland,Finland,Oulu,0.01
+10/11/2015 6:27,Silver,14,Massachusetts,128,10,Mrs.##Margaret##Peacock##Finland,Finland,Oulu,0.18
+10/11/2015 6:27,Reg,19,New Hampshire,73,14,Mr.##Michael##Suyama##Brazil,Brazil,Sao Paulo,0.1
+10/11/2015 9:34,VIP,13,Maine,162,25,Mr.##Michael##Suyama##Brazil,Brazil,Sao Paulo,0.3
+10/11/2015 9:34,VIP,7,Maine,88,12,Mr.##Michael##Suyama##Brazil,Brazil,Sao Paulo,0.19
+11/11/2015 1:55,Reg,11,Massachusetts,115,21,Ms.##Janet##Leverling##Venezuela,Venezuela,I. de Margarita,0.28
+11/11/2015 3:22,VIP,2,Maine,138,24,Ms.##Janet##Leverling##Venezuela,Venezuela,I. de Margarita,0.32
+12/11/2015 4:25,Reg,3,Maine,109,18,Ms.##Janet##Leverling##Venezuela,Venezuela,I. de Margarita,0.22
+12/11/2015 5:23,Silver,12,Massachusetts,116,23,Mr.##Robert##King##Norway,Norway,Stavern,0.04
+13/11/2015 7:18,VIP,6,Massachusetts,73,25,Mrs.##Margaret##Peacock##Germany,Germany,Stuttgart,0.05
+13/11/2015 7:18,Reg,6,Puerto Rico,120,10,Mrs.##Margaret##Peacock##Germany,Germany,Stuttgart,0.12
+13/11/2015 7:29,Reg,19,Massachusetts,87,17,Mrs.##Margaret##Peacock##Venezuela,Venezuela,San Crist?bal,0.13
+13/11/2015 9:16,Reg,20,Massachusetts,87,16,Mrs.##Margaret##Peacock##Venezuela,Venezuela,San Crist?bal,0.21
+13/11/2015 9:16,Reg,16,New Hampshire,129,14,Mr.##Robert##King##Denmark,Denmark,Kobenhavn,0.16
+13/11/2015 9:16,VIP,14,Rhode Island,160,29,Mr.##Robert##King##Denmark,Denmark,Kobenhavn,0.18
+13/11/2015 16:09,Reg,10,Massachusetts,173,29,Mr.##Michael##Suyama##Germany,Germany,Berlin,0.18
+15/11/2015 18:45,VIP,23,Massachusetts,131,16,Mr.##Michael##Suyama##Germany,Germany,Berlin,0.18
+15/11/2015 18:45,Reg,24,Maine,128,25,Mr.##Michael##Suyama##Germany,Germany,Berlin,0.08
+17/11/2015 3:36,VIP,26,Massachusetts,199,17,Ms.##Janet##Leverling##Brazil,Brazil,Resende,0.12
+17/11/2015 3:50,VIP,15,Maine,113,30,Ms.##Janet##Leverling##Brazil,Brazil,Resende,0.18
+18/11/2015 3:09,Reg,24,Maine,161,14,Ms.##Janet##Leverling##Brazil,Brazil,Resende,0.23
+18/11/2015 7:19,VIP,2,Massachusetts,119,21,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.15
+18/11/2015 7:19,VIP,13,Massachusetts,153,21,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.07
+18/11/2015 16:19,VIP,2,Massachusetts,189,15,Ms.##Anne##Dodsworth##Ireland,Ireland,Cork,0.09
+18/11/2015 16:19,Silver,7,Massachusetts,129,27,Ms.##Anne##Dodsworth##Ireland,Ireland,Cork,0.24
+21/11/2015 3:45,Silver,17,Massachusetts,102,23,Ms.##Anne##Dodsworth##Ireland,Ireland,Cork,0.18
+22/11/2015 17:22,Silver,7,Massachusetts,83,21,Ms.##Anne##Dodsworth##Ireland,Ireland,Cork,0.19
+22/11/2015 17:22,Reg,29,Maine,160,30,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.28
+25/11/2015 3:49,VIP,6,New Hampshire,167,23,Mrs.##Margaret##Peacock##Brazil,Brazil,Rio de Janeiro,0.14
+25/11/2015 3:55,VIP,24,Puerto Rico,108,10,Mr.##Steven##Buchanan##Brazil,Brazil,Rio de Janeiro,0.05
+25/11/2015 6:41,Reg,23,New Hampshire,117,27,Mr.##Steven##Buchanan##Brazil,Brazil,Rio de Janeiro,0.05
+26/11/2015 5:43,Silver,26,Massachusetts,145,12,Mr.##Steven##Buchanan##Belgium,Belgium,Bruxelles,0.17
+26/11/2015 5:43,Silver,10,Massachusetts,149,26,Mr.##Steven##Buchanan##Belgium,Belgium,Bruxelles,0.11
+26/11/2015 7:25,Reg,11,Puerto Rico,100,22,Mr.##Steven##Buchanan##Brazil,Brazil,Sao Paulo,0.29
+26/11/2015 7:25,Reg,2,New Hampshire,122,16,Mr.##Steven##Buchanan##Brazil,Brazil,Sao Paulo,0.25
+27/11/2015 6:56,Silver,27,Massachusetts,97,30,Mr.##Steven##Buchanan##Brazil,Brazil,Sao Paulo,0.25
+27/11/2015 6:56,VIP,8,Rhode Island,74,16,Ms.##Laura##Callahan##Germany,Germany,Stuttgart,0.24
+27/11/2015 16:15,VIP,28,Puerto Rico,123,16,Ms.##Laura##Callahan##Germany,Germany,Stuttgart,0.21
+27/11/2015 16:15,Silver,10,Puerto Rico,157,14,Mrs.##Margaret##Peacock##Brazil,Brazil,Campinas,0.11
+28/11/2015 10:12,VIP,16,Maine,199,25,Mrs.##Margaret##Peacock##Brazil,Brazil,Campinas,0.04
+28/11/2015 10:12,Reg,28,Massachusetts,114,21,Ms.##Nancy##Davolio##Germany,Germany,M?nchen,0.13
+28/11/2015 10:12,VIP,25,Massachusetts,146,19,Ms.##Nancy##Davolio##Germany,Germany,M?nchen,0.28
+29/11/2015 19:55,Silver,14,Rhode Island,81,12,Mr.##Steven##Buchanan##Sweden,Sweden,Lule?,0.22
+01/12/2015 4:16,Reg,10,Massachusetts,101,25,Mr.##Steven##Buchanan##Sweden,Sweden,Lule?,0.23
+01/12/2015 4:16,VIP,22,Massachusetts,129,25,Mr.##Steven##Buchanan##Sweden,Sweden,Lule?,0.25
+01/12/2015 4:16,Silver,22,Massachusetts,132,26,Ms.##Nancy##Davolio##Italy,Italy,Reggio Emilia,0.14
+01/12/2015 9:50,VIP,21,Massachusetts,113,28,Mr.##Michael##Suyama##USA,USA,Eugene,0.25
+01/12/2015 12:40,VIP,16,Rhode Island,162,30,Mr.##Michael##Suyama##USA,USA,Eugene,0.29
+01/12/2015 15:04,Reg,27,Maine,111,20,Mr.##Michael##Suyama##USA,USA,Eugene,0.05
+02/12/2015 12:04,Reg,11,Massachusetts,103,27,Dr.##Andrew##Fuller##USA,USA,Boise,0.28
+02/12/2015 12:04,Reg,14,Maine,176,17,Dr.##Andrew##Fuller##USA,USA,Boise,0.08
+03/12/2015 14:59,Silver,16,Massachusetts,130,29,Dr.##Andrew##Fuller##USA,USA,Boise,0.1
+05/12/2015 7:07,VIP,21,Rhode Island,87,11,Dr.##Andrew##Fuller##USA,USA,Boise,0.28
+05/12/2015 7:07,VIP,18,Massachusetts,128,24,Dr.##Andrew##Fuller##USA,USA,Boise,0.25
+05/12/2015 12:41,Reg,23,New Hampshire,177,29,Dr.##Andrew##Fuller##USA,USA,Boise,0.09
+05/12/2015 12:41,Reg,16,Massachusetts,145,26,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.3
+05/12/2015 12:41,Silver,13,Puerto Rico,111,14,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.18
+05/12/2015 12:41,Silver,4,Massachusetts,139,19,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.29
+05/12/2015 12:41,Reg,6,Maine,151,27,Mrs.##Margaret##Peacock##Germany,Germany,Cunewalde,0.17
+05/12/2015 12:41,VIP,7,Puerto Rico,159,26,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.14
+05/12/2015 12:41,VIP,19,New Hampshire,75,16,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.29
+07/12/2015 4:40,Silver,19,New Hampshire,111,28,Mr.##Robert##King##Brazil,Brazil,Sao Paulo,0.13
+07/12/2015 4:40,Reg,13,Massachusetts,147,16,Ms.##Laura##Callahan##USA,USA,Elgin,0.33
+07/12/2015 8:40,Reg,25,Maine,151,26,Mr.##Robert##King##Ireland,Ireland,Cork,0.01
+08/12/2015 16:38,VIP,2,Maine,130,27,Mr.##Robert##King##Ireland,Ireland,Cork,0.2
+08/12/2015 19:54,Reg,15,Maine,137,18,Ms.##Janet##Leverling##USA,USA,Portland,0.22
+08/12/2015 19:54,VIP,26,Maine,124,18,Dr.##Andrew##Fuller##France,France,Marseille,0.27
+09/12/2015 0:59,VIP,13,Maine,74,20,Dr.##Andrew##Fuller##France,France,Marseille,0.16
+09/12/2015 6:25,VIP,25,New Hampshire,104,15,Dr.##Andrew##Fuller##France,France,Marseille,0.1
+09/12/2015 8:00,Reg,4,Massachusetts,132,18,Ms.##Nancy##Davolio##Portugal,Portugal,Lisboa,0.01
+09/12/2015 8:00,Reg,18,New Hampshire,156,27,Ms.##Nancy##Davolio##Portugal,Portugal,Lisboa,0.13
+09/12/2015 8:00,VIP,15,Maine,129,20,Ms.##Nancy##Davolio##Portugal,Portugal,Lisboa,0.04
+09/12/2015 9:34,Silver,6,Puerto Rico,129,13,Ms.##Nancy##Davolio##USA,USA,Portland,0.05
+11/12/2015 4:47,VIP,17,Maine,129,25,Ms.##Nancy##Davolio##USA,USA,Portland,0.21
+11/12/2015 4:47,VIP,18,Rhode Island,129,10,Ms.##Nancy##Davolio##USA,USA,Portland,0.2
+12/12/2015 1:34,Silver,15,Maine,129,17,Mr.##Robert##King##Switzerland,Switzerland,Gen?ve,0.12
+12/12/2015 5:09,Silver,22,Rhode Island,129,21,Mr.##Robert##King##Switzerland,Switzerland,Gen?ve,0.02
+12/12/2015 5:09,VIP,26,Maine,129,17,Mr.##Robert##King##Austria,Austria,Graz,0.27
+12/12/2015 5:09,Silver,28,New Hampshire,129,11,Mr.##Robert##King##Austria,Austria,Graz,0.02
+12/12/2015 13:55,VIP,10,Maine,158,13,Ms.##Nancy##Davolio##Germany,Germany,Stuttgart,0.09
+13/12/2015 0:22,Reg,5,Rhode Island,81,22,Ms.##Nancy##Davolio##Germany,Germany,Stuttgart,0.3
+14/12/2015 9:02,Reg,10,Maine,122,24,Ms.##Nancy##Davolio##Germany,Germany,Stuttgart,0.31
+14/12/2015 9:02,Reg,21,Massachusetts,140,22,Dr.##Andrew##Fuller##Denmark,Denmark,Kobenhavn,0.13
+14/12/2015 19:40,Reg,13,Maine,87,10,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.05
+16/12/2015 11:01,Reg,28,Rhode Island,96,27,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.15
+16/12/2015 11:01,VIP,8,Massachusetts,122,22,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.19
+16/12/2015 11:01,Reg,22,New Hampshire,142,12,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.1
+17/12/2015 8:27,Silver,27,Maine,93,23,Mrs.##Margaret##Peacock##Germany,Germany,M?nchen,0.17
+17/12/2015 8:27,Reg,26,New Hampshire,80,28,Ms.##Nancy##Davolio##France,France,Nantes,0.14
+18/12/2015 11:15,Silver,17,Puerto Rico,130,12,Ms.##Nancy##Davolio##France,France,Nantes,0.28
+18/12/2015 11:15,Reg,24,Maine,103,28,Ms.##Nancy##Davolio##France,France,Nantes,0.17
+18/12/2015 11:48,Reg,27,Massachusetts,83,15,Ms.##Anne##Dodsworth##Sweden,Sweden,Lule?,0.08
+18/12/2015 14:18,Silver,24,Massachusetts,138,27,Ms.##Anne##Dodsworth##Sweden,Sweden,Lule?,0.27
+19/12/2015 5:59,Silver,15,Massachusetts,123,23,Dr.##Andrew##Fuller##Finland,Finland,Helsinki,0.08
+19/12/2015 5:59,Silver,12,New Hampshire,110,27,Dr.##Andrew##Fuller##Finland,Finland,Helsinki,0.29
+19/12/2015 12:45,Reg,17,Massachusetts,129,11,Dr.##Andrew##Fuller##Finland,Finland,Helsinki,0.03
+19/12/2015 12:45,Reg,29,New Hampshire,104,26,Mrs.##Margaret##Peacock##UK,UK,Cowes,0.31
+20/12/2015 8:13,Silver,3,Massachusetts,129,20,Mr.##Steven##Buchanan##Germany,Germany,M?nchen,0.17
+22/12/2015 5:06,VIP,2,Maine,107,12,Mr.##Steven##Buchanan##Germany,Germany,M?nchen,0.2
+22/12/2015 5:06,Silver,22,Massachusetts,131,20,Mr.##Steven##Buchanan##Germany,Germany,M?nchen,0.2
+23/12/2015 5:19,Silver,15,Puerto Rico,75,16,Dr.##Andrew##Fuller##Mexico,Mexico,M?xico D.F.,0.08
+23/12/2015 10:10,Silver,22,New Hampshire,145,12,Dr.##Andrew##Fuller##Mexico,Mexico,M?xico D.F.,0.19
+23/12/2015 10:10,VIP,6,Massachusetts,156,21,Dr.##Andrew##Fuller##Mexico,Mexico,M?xico D.F.,0.05
+23/12/2015 10:10,Reg,10,Maine,168,15,Ms.##Nancy##Davolio##Mexico,Mexico,M?xico D.F.,0.28
+23/12/2015 13:08,Reg,15,Massachusetts,165,14,Ms.##Nancy##Davolio##Mexico,Mexico,M?xico D.F.,0.27
+23/12/2015 13:08,Reg,12,Maine,141,14,Mr.##Robert##King##USA,USA,Boise,0.27
+23/12/2015 13:08,Silver,12,Maine,126,20,Mr.##Robert##King##USA,USA,Boise,0.1
+23/12/2015 13:08,VIP,4,Puerto Rico,100,14,Mr.##Robert##King##USA,USA,Boise,0.28
+24/12/2015 0:02,VIP,12,Maine,150,11,Mr.##Robert##King##USA,USA,Boise,0.06
+24/12/2015 0:02,VIP,10,New Hampshire,98,25,Ms.##Laura##Callahan##France,France,Strasbourg,0.23
+24/12/2015 5:12,Silver,17,Massachusetts,167,19,Ms.##Nancy##Davolio##USA,USA,Anchorage,0.18
+24/12/2015 5:12,Reg,8,Maine,104,13,Ms.##Nancy##Davolio##USA,USA,Anchorage,0.06
+24/12/2015 5:12,Reg,27,Puerto Rico,84,17,Ms.##Nancy##Davolio##USA,USA,Anchorage,0.18
+24/12/2015 8:45,VIP,16,Massachusetts,159,19,Ms.##Janet##Leverling##USA,USA,Eugene,0.22
+24/12/2015 8:45,Reg,15,Massachusetts,93,27,Ms.##Janet##Leverling##USA,USA,Eugene,0.07
+24/12/2015 10:41,Silver,12,Maine,171,24,Ms.##Janet##Leverling#####,###,Eugene,0.25
+25/12/2015 5:47,Reg,12,Maine,15,9,Ms.##Janet##Leverling##Mexico,Mexico,M?xico D.F.,0.09
+25/12/2015 5:47,VIP,4,Puerto Rico,136,11,Ms.##Janet##Leverling##Mexico,Mexico,M?xico D.F.,0.31
+25/12/2015 5:47,Silver,12,Maine,167,15,Ms.##Janet##Leverling##Mexico,Mexico,M?xico D.F.,0.13
+25/12/2015 10:35,VIP,10,New Hampshire,101,27,Dr.##Andrew##Fuller##France,France,Nantes,0.06
+25/12/2015 10:35,VIP,17,Massachusetts,126,18,Ms.##Janet##Leverling##Germany,Germany,K?ln,0.16
+27/12/2015 12:05,Reg,17,New Hampshire,127,15,Ms.##Janet##Leverling##Germany,Germany,K?ln,0.18
+27/12/2015 18:11,Reg,17,New Hampshire,76,21,Ms.##Janet##Leverling##Germany,Germany,K?ln,0.15
+27/12/2015 18:11,Reg,20,Massachusetts,134,14,Mrs.##Margaret##Peacock##Brazil,Brazil,Campinas,0.27
+28/12/2015 4:02,Reg,19,Massachusetts,115,26,Mrs.##Margaret##Peacock##Brazil,Brazil,Campinas,0.03
+29/12/2015 11:53,Silver,4,Maine,146,20,Mrs.##Margaret##Peacock##Brazil,Brazil,Campinas,0.33
+29/12/2015 11:53,Silver,9,Rhode Island,109,21,Dr.##Andrew##Fuller##Austria,Austria,Salzburg,0.1
+29/12/2015 11:53,VIP,16,Massachusetts,184,19,Dr.##Andrew##Fuller##Austria,Austria,Salzburg,0.01
+29/12/2015 12:18,VIP,10,Puerto Rico,115,26,Ms.##Anne##Dodsworth##Ireland,Ireland,Cork,0.09
+05/01/2016 12:24,Reg,15,Massachusetts,130,14,Ms.##Anne##Dodsworth##Ireland,Ireland,Cork,0.27
+05/01/2016 12:24,VIP,1,Massachusetts,165,10,Ms.##Anne##Dodsworth##Ireland,Ireland,Cork,0.14
+19/02/2016 20:41,VIP,5,Massachusetts,136,26,Mrs.##Margaret##Peacock##Denmark,Denmark,?rhus,0.25
+30/03/2016 14:14,Reg,5,Maine,72,16,Mrs.##Margaret##Peacock##Denmark,Denmark,?rhus,0.24
+27/05/2016 12:57,VIP,17,Massachusetts,123,28,Mrs.##Margaret##Peacock##Denmark,Denmark,?rhus,0.09
+16/07/2016 9:49,VIP,19,Massachusetts,187,27,Ms.##Nancy##Davolio##Sweden,Sweden,Lule?,0.29
+16/07/2016 9:49,Silver,27,Maine,###,22,Ms.##Nancy##Davolio#####,###,Rio de Janeiro,0.32
+29/03/2017 17:06,Silver,25,Maine,###,14,Ms.##Nancy##Davolio#####,###,Rio de Janeiro,0.11
+29/03/2017 17:06,Reg,3,New Hampshire,###,23,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.14
+16/09/2017 13:50,VIP,18,Massachusetts,###,21,Dr.##Andrew##Fuller##Germany,Germany,Cunewalde,0.27
