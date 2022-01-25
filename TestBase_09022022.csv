@@ -1,4 +1,4 @@
-OrderID,OrderDate,Cutomer Name,Customer Country,Customer City,Product Code@ProductName@Salse Cost,Sales Quantity,Sales Price,Fee,Department ,Discount
+OrderID,OrderDate,Cutomer Name,Customer Country,Customer City,Product Code@ProductName@Sales Cost,Sales Quantity,Sales Price,Fee,Department ,Discount
 10248,04/07/2018,Vins et alcools Chevalier,France,Reims,11@Queso Cabrales@5.39308,12,14,6773,Defense,19
 10248,04/07/2018,Vins et alcools Chevalier,France,Reims,42@Singaporean Hokkien Fried Mee@3.775156,10,9.8,8062,Culture and Sports,15
 10248,04/07/2018,Vins et alcools Chevalier,France,Reims,72@Mozzarella di Giovanni@13.405656,5,34.8,9155,Culture and Sports,24
